@@ -940,8 +940,8 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/37f2baf7-1349-494d-b5e7-a440903a9b98"
       (reference "L?") (unit 1) (value "DJNR5020-3R3-S") (footprint "crosslink-nx-video-converter:L_4.9x4.9mm")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/bfa21451-9a8d-418b-a01b-23b3c3912db4"
-      (reference "L?") (unit 1) (value "DJNR6028-1R5-S") (footprint "crosslink-nx-video-converter:L_6x6mm-")
+    (path "/818d488b-353f-4d93-a798-315de117413a/47057fe9-133c-4233-ac14-461939b48427"
+      (reference "L?") (unit 1) (value "DJNR5020-3R3-S") (footprint "crosslink-nx-video-converter:L_4.9x4.9mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/52e58b0a-3012-4a52-b4ac-836294d4efb2"
       (reference "R?") (unit 1) (value "R_10k_1%_0603") (footprint "antmicro-footprints:0603-res")
