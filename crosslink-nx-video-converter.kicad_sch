@@ -1045,9 +1045,6 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/5cf35e21-4e49-4235-8e3b-01277ac6baed"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/62436f13-9537-4d28-89ce-cdfeddaa83ee"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/818d488b-353f-4d93-a798-315de117413a/86680d04-125b-48d3-9081-5460aacb6d57"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
