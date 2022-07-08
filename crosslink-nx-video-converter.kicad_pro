@@ -444,6 +444,10 @@
     [
       "754b3b25-858a-4ae9-9c94-eb88092a8c6b",
       "SDI"
+    ],
+    [
+      "921bbf25-96dd-4584-bc75-c5daf08b08e5",
+      "FPGA"
     ]
   ],
   "text_variables": {}
