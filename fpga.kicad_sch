@@ -1728,6 +1728,8 @@
   (no_connect (at 504.19 199.39) (uuid 16a83191-25b2-4c43-af8d-20a0de9f7b6f))
   (no_connect (at 504.19 196.85) (uuid 16a83191-25b2-4c43-af8d-20a0de9f7b70))
   (no_connect (at 504.19 194.31) (uuid 16a83191-25b2-4c43-af8d-20a0de9f7b71))
+  (no_connect (at 243.84 86.36) (uuid 4bb53dc6-c3cb-472a-a841-0c667398eaf8))
+  (no_connect (at 243.84 105.41) (uuid 4bb53dc6-c3cb-472a-a841-0c667398eaf8))
 
   (wire (pts (xy 146.05 104.14) (xy 147.32 104.14))
     (stroke (width 0) (type default) (color 0 0 0 0))
