@@ -793,18 +793,6 @@
     )
   )
 
-  (sheet (at 133.35 124.46) (size 22.86 13.97) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 58a7938d-77ca-4278-af13-189decddc299)
-    (property "Sheet name" "CSI" (id 0) (at 133.35 123.7484 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "csi.kicad_sch" (id 1) (at 133.35 139.0146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
   (sheet (at 166.37 124.46) (size 22.86 13.97) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -853,12 +841,24 @@
     )
   )
 
+  (sheet (at 134.62 124.46) (size 21.59 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid e402139f-c5ee-4f0d-82a1-944c44608501)
+    (property "Sheet name" "Peripherals" (id 0) (at 134.62 123.7484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "peripherals.kicad_sch" (id 1) (at 134.62 139.0146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/818d488b-353f-4d93-a798-315de117413a" (page "2"))
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d" (page "3"))
-    (path "/58a7938d-77ca-4278-af13-189decddc299" (page "4"))
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b" (page "5"))
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501" (page "6"))
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5" (page "6"))
   )
 
@@ -1091,6 +1091,12 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/5eb624a7-9867-4b81-9982-4239c1aeb79d"
       (reference "#PWR0176") (unit 1) (value "+1V35") (footprint "")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/33196dee-c95d-42c5-9fa8-fa7cc8a81fdc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7dbab69f-8724-4a1c-b8db-bd192154f5a5"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/5132d7af-0a0a-4920-a030-79e8221755f7"
       (reference "C1") (unit 1) (value "C_1u_0603") (footprint "antmicro-footprints:0603-cap")
     )
@@ -1225,6 +1231,12 @@
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/88bdad07-d3b6-41a7-bd1f-b9cf7894e607"
       (reference "C45") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:0402-cap")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/2728716e-bc32-4049-930e-b6c6d7059021"
+      (reference "J?") (unit 1) (value "WE_68715014522_ONE-SIDE") (footprint "antmicro-footprints:WE_68715014522_ONE-SIDE")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/c5d0ac94-95d3-491b-bc4e-a20970db84a7"
+      (reference "J?") (unit 1) (value "WE_68715014522") (footprint "antmicro-footprints:WE_68715014522")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/37f2baf7-1349-494d-b5e7-a440903a9b98"
       (reference "L1") (unit 1) (value "DJNR5020-3R3-S") (footprint "crosslink-nx-video-converter:L_4.9x4.9mm")
