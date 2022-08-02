@@ -19,7 +19,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -113,7 +113,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -216,7 +216,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -310,7 +310,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -401,7 +401,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm" 
+        (property "Footprint" "antmicro-footprints:BGA-256_16x16_14.0x14.0mm" 
             (id 2) 
             (at 4.445 -36.195 0) 
             (effects 
@@ -3467,7 +3467,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3550,7 +3550,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3633,7 +3633,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3715,7 +3715,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:TP-R-1.5" 
+        (property "Footprint" "antmicro-footprints:TP-R-1.5" 
             (id 2) 
             (at 0 0 0) 
             (effects 
@@ -3771,7 +3771,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:OSC-4_5.0x3.2mm" 
+        (property "Footprint" "antmicro-footprints:OSC-4_5.0x3.2mm" 
             (id 2) 
             (at 10.16 -7.62 0) 
             (effects 
@@ -3880,7 +3880,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3962,7 +3962,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:B3U-3000P" 
+        (property "Footprint" "antmicro-footprints:B3U-3000P" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4107,7 +4107,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SC18IS602B" 
+        (property "Footprint" "antmicro-footprints:SC18IS602B" 
             (id 2) 
             (at 5.08 1.27 0) 
             (effects 
@@ -4337,7 +4337,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4420,7 +4420,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4503,7 +4503,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SOT-23-3" 
+        (property "Footprint" "antmicro-footprints:SOT-23-3" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4760,7 +4760,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SHF-105-01-X-D-SM" 
+        (property "Footprint" "antmicro-footprints:SHF-105-01-X-D-SM" 
             (id 2) 
             (at 12.7 -16.51 0) 
             (effects 
@@ -5012,7 +5012,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:LED_0603" 
+        (property "Footprint" "antmicro-footprints:LED_0603" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5190,7 +5190,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SOIC-8_W5.3mm" 
+        (property "Footprint" "antmicro-footprints:SOIC-8_W5.3mm" 
             (id 2) 
             (at 0 -24.13 0) 
             (effects 
@@ -5342,7 +5342,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:LED_0603" 
+        (property "Footprint" "antmicro-footprints:LED_0603" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5476,7 +5476,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:PinHeader_2x5_P1.27_SMD" 
+        (property "Footprint" "antmicro-footprints:PinHeader_2x5_P1.27_SMD" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5733,7 +5733,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BGA100_11x11mm" 
+        (property "Footprint" "antmicro-footprints:BGA100_11x11mm" 
             (id 2) 
             (at 5.08 1.27 0) 
             (effects 
@@ -6913,7 +6913,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "antmicro-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -6996,7 +6996,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7079,7 +7079,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "antmicro-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7162,7 +7162,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7300,7 +7300,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "antmicro-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7501,7 +7501,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BNC_Edge_Conn" 
+        (property "Footprint" "antmicro-footprints:BNC_Edge_Conn" 
             (id 2) 
             (at -6.096 -21.082 0) 
             (effects 
@@ -7622,7 +7622,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "antmicro-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7705,7 +7705,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7799,7 +7799,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7892,7 +7892,7 @@
             (effects 
                 (font 
                     (size 0.7874 0.7874)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:ABM7_OSC" 
+        (property "Footprint" "antmicro-footprints:ABM7_OSC" 
             (id 2) 
             (at 53.34 0 0) 
             (effects 
@@ -7987,7 +7987,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "antmicro-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8081,7 +8081,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "antmicro-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8175,7 +8175,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-cap" 
+        (property "Footprint" "antmicro-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8270,7 +8270,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify right) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:QFN-16_EP_4x4_Pitch0.65mm" 
+        (property "Footprint" "antmicro-footprints:QFN-16_EP_4x4_Pitch0.65mm" 
             (id 2) 
             (at 7.62 -1.27 0) 
             (effects 
@@ -8511,7 +8511,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8594,7 +8594,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "antmicro-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8687,7 +8687,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:WE_68715014522_ONE-SIDE" 
+        (property "Footprint" "antmicro-footprints:WE_68715014522_ONE-SIDE" 
             (id 2) 
             (at -5.08 -90.17 0) 
             (effects 
@@ -9740,7 +9740,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-Fuse-Littelfuse-0467" 
+        (property "Footprint" "antmicro-footprints:0603-Fuse-Littelfuse-0467" 
             (id 2) 
             (at 1.27 -5.715 0) 
             (effects 
@@ -9832,7 +9832,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -9914,7 +9914,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SW_SPST_6_Slide_MCDHN-06F-T-V_P1.27mm" 
+        (property "Footprint" "antmicro-footprints:SW_SPST_6_Slide_MCDHN-06F-T-V_P1.27mm" 
             (id 2) 
             (at 0 0 0) 
             (effects 
@@ -10274,7 +10274,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:PinHeader_2x5_P1.27_SMD" 
+        (property "Footprint" "antmicro-footprints:PinHeader_2x5_P1.27_SMD" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -10530,7 +10530,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "antmicro-footprints:R_Array_4x0402" 
             (id 2) 
             (at -5.08 19.05 0) 
             (effects 
@@ -10755,7 +10755,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "antmicro-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -10839,7 +10839,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110" 
+        (property "Footprint" "antmicro-footprints:BGA80P96C6X16_800X1400X110" 
             (id 2) 
             (at 66.04 -40.64 0) 
             (effects 
@@ -11873,7 +11873,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "antmicro-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -11967,7 +11967,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "antmicro-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -12050,7 +12050,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -12130,7 +12130,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:DFN-10-1EP_3x3mm" 
+        (property "Footprint" "antmicro-footprints:DFN-10-1EP_3x3mm" 
             (id 2) 
             (at 2.54 -24.13 0) 
             (effects 
@@ -12316,7 +12316,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SOT-23-3" 
+        (property "Footprint" "antmicro-footprints:SOT-23-3" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -12570,7 +12570,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:SOT-23-5" 
+        (property "Footprint" "antmicro-footprints:SOT-23-5" 
             (id 2) 
             (at 1.27 -13.97 0) 
             (effects 
@@ -12690,7 +12690,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0805-cap" 
+        (property "Footprint" "antmicro-footprints:0805-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -12784,7 +12784,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -12868,7 +12868,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:Coilcraft-XEL4030" 
+        (property "Footprint" "antmicro-footprints:Coilcraft-XEL4030" 
             (id 2) 
             (at 20.32 6.35 0) 
             (effects 
@@ -13081,7 +13081,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13164,7 +13164,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13247,7 +13247,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13330,7 +13330,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0805-res" 
+        (property "Footprint" "antmicro-footprints:0805-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13413,7 +13413,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13496,7 +13496,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -13579,7 +13579,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:DC_SOCKET" 
+        (property "Footprint" "antmicro-footprints:DC_SOCKET" 
             (id 2) 
             (at 1.27 -8.89 0) 
             (effects 
@@ -13736,7 +13736,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:TSOT23-6" 
+        (property "Footprint" "antmicro-footprints:TSOT23-6" 
             (id 2) 
             (at -1.27 -16.51 0) 
             (effects 
@@ -13855,7 +13855,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0603-res" 
+        (property "Footprint" "antmicro-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 

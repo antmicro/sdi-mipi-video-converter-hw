@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "crosslink-nx-video-converter")(type "KiCad")(uri "${KIPRJMOD}/lib/crosslink-nx-video-converter.pretty")(options "")(descr ""))
   (lib (name "Oscillator")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Oscillator.pretty")(options "")(descr ""))
+  (lib (name "crosslink-nx-video-converter-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/crosslink-nx-video-converter-footprints")(options "")(descr ""))
 )
