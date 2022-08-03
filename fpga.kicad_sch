@@ -4914,8 +4914,8 @@
   (no_connect (at 88.9 130.81) (uuid 04815093-1086-4171-b475-561fca7df1c9))
   (no_connect (at 354.33 120.65) (uuid 0cf47847-8237-45ef-81a5-1277f353ca26))
   (no_connect (at 138.43 138.43) (uuid bc2c5065-2b68-4e5d-a8a6-e58af6029f15))
-  (no_connect (at 138.43 148.59) (uuid bc2c5065-2b68-4e5d-a8a6-e58af6029f15))
-  (no_connect (at 138.43 135.89) (uuid bc2c5065-2b68-4e5d-a8a6-e58af6029f15))
+  (no_connect (at 138.43 148.59) (uuid bc2c5065-2b68-4e5d-a8a6-e58af6029f16))
+  (no_connect (at 138.43 135.89) (uuid bc2c5065-2b68-4e5d-a8a6-e58af6029f17))
   (no_connect (at 118.11 78.74) (uuid d79238b8-1e67-4096-9581-d6241d8b413c))
 
   (wire (pts (xy 302.26 213.36) (xy 302.26 203.2))
