@@ -876,29 +876,29 @@
   )
 
   (symbol_instances
-    (path "/818d488b-353f-4d93-a798-315de117413a/39af2866-ad98-4e9f-aebb-62143ea51293"
-      (reference "#PWR01") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/a9bdc759-32d6-44e2-803f-9a791f9d76e6"
+      (reference "#PWR01") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/005b0833-0e4c-4dbd-adce-9a91ad8fd2ca"
-      (reference "#PWR02") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/8c7b6ffe-f6f2-4655-8381-07674ee20b81"
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/a010473d-9d4c-403c-bef0-22533ef6a1c1"
-      (reference "#PWR03") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/21d11cf5-ae18-4dca-a390-d98c6a31f4d9"
+      (reference "#PWR03") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/def2c678-49d8-46aa-974a-6fa4cacdbdd9"
+      (reference "#PWR04") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/e7b1f115-353b-4a42-a633-0816f7815ff0"
-      (reference "#PWR04") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/9f493c2e-5d8f-496f-8d05-7de8c92cf8fc"
-      (reference "#PWR05") (unit 1) (value "+1V8") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR05") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/5cf35e21-4e49-4235-8e3b-01277ac6baed"
       (reference "#PWR06") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/00c7276a-9a73-4b46-9525-39aae614c7a4"
-      (reference "#PWR07") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/73afd93c-9b7f-441a-8592-6e6b580ead58"
+      (reference "#PWR07") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/24e5839c-d455-4903-8d7e-e345852c1f1e"
-      (reference "#PWR08") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/decff214-4072-4683-9131-b0c2c7f9f76f"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/0e2c71c7-f8a9-48f1-a112-5baf5b2584bf"
       (reference "#PWR09") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
@@ -912,97 +912,97 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/facda70c-b821-4ae4-97cb-8c5b7da27320"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/365cc07e-ac42-4bc4-b39b-29ce1bc9d7b4"
+    (path "/818d488b-353f-4d93-a798-315de117413a/b1b82b38-f0e7-4adc-bf5f-5b880254ab74"
       (reference "#PWR013") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/b1b82b38-f0e7-4adc-bf5f-5b880254ab74"
+    (path "/818d488b-353f-4d93-a798-315de117413a/86680d04-125b-48d3-9081-5460aacb6d57"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/86680d04-125b-48d3-9081-5460aacb6d57"
+    (path "/818d488b-353f-4d93-a798-315de117413a/6cdd3009-76c5-4d00-82ae-ea32e46c927f"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/6cdd3009-76c5-4d00-82ae-ea32e46c927f"
-      (reference "#PWR016") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/5a0b9e78-d307-47ee-bfbc-2ddc1ee5bf91"
-      (reference "#PWR017") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/200b72fa-859f-485e-8cad-ccbac8d6a8a8"
-      (reference "#PWR018") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
     (path "/818d488b-353f-4d93-a798-315de117413a/5e937257-0cb8-4020-a4d8-70f761f790f4"
-      (reference "#PWR019") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/d649547b-06ff-483c-b277-ab8149dd0c23"
-      (reference "#PWR020") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/57fadde2-af4b-4001-a8cb-186d19abd409"
-      (reference "#PWR021") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/14f0d1ca-7143-47e4-b220-a00713f3ed3d"
-      (reference "#PWR022") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/7b177cac-259e-4c73-b742-52b90e7b66bd"
-      (reference "#PWR023") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/5eae24a2-ed42-41e4-88de-1736d52d989e"
-      (reference "#PWR024") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/27e7d9b6-3b1c-4e76-bdd5-dad88c2bbd81"
-      (reference "#PWR025") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/0e0c3521-ed4f-4a6d-89d2-d374fedf22c0"
-      (reference "#PWR026") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/c6353fb8-9d44-4b91-bb05-75ffb935a765"
-      (reference "#PWR027") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/1f4eddeb-f890-4972-aa1d-04538fc3d73f"
-      (reference "#PWR028") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/128fdd65-f476-4eed-b17d-d73e32e517d0"
-      (reference "#PWR029") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/913f02c6-b2f3-401a-ba0a-1d70137b261f"
-      (reference "#PWR030") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/384cac64-425c-41db-8b1a-db6a869be026"
-      (reference "#PWR031") (unit 1) (value "+1V8") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/5b704370-67ce-43c2-bd28-da1746b820b3"
-      (reference "#PWR032") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR016") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/f899effa-4f61-46c2-963f-f7c1cdd41c7a"
-      (reference "#PWR033") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR017") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/6112c745-a8ab-4d35-9a17-5d334a7e0513"
-      (reference "#PWR034") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/14f0d1ca-7143-47e4-b220-a00713f3ed3d"
+      (reference "#PWR018") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/49ee4f93-ec55-403e-a93d-598ab1cdbd76"
-      (reference "#PWR035") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/7b177cac-259e-4c73-b742-52b90e7b66bd"
+      (reference "#PWR019") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/88a4a409-a0aa-4948-9f58-76b8c27e98c2"
-      (reference "#PWR036") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/60af59ed-8f4b-42be-a1b4-f4bca9441665"
+      (reference "#PWR020") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/27e7d9b6-3b1c-4e76-bdd5-dad88c2bbd81"
+      (reference "#PWR021") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/0e0c3521-ed4f-4a6d-89d2-d374fedf22c0"
+      (reference "#PWR022") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/1f4eddeb-f890-4972-aa1d-04538fc3d73f"
+      (reference "#PWR023") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/128fdd65-f476-4eed-b17d-d73e32e517d0"
+      (reference "#PWR024") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/913f02c6-b2f3-401a-ba0a-1d70137b261f"
+      (reference "#PWR025") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/107d553d-427a-43a4-b35e-1e35bbc796a7"
+      (reference "#PWR026") (unit 1) (value "+1V8") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/9b8f5ef3-7126-4ca4-ae51-5d5d93c1a659"
+      (reference "#PWR027") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/39af2866-ad98-4e9f-aebb-62143ea51293"
+      (reference "#PWR028") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/005b0833-0e4c-4dbd-adce-9a91ad8fd2ca"
+      (reference "#PWR029") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/a010473d-9d4c-403c-bef0-22533ef6a1c1"
+      (reference "#PWR030") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/b702b01b-6e0e-4b8b-ac04-c5afef1a4c56"
-      (reference "#PWR037") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR031") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/b661ba85-6d3f-4e41-a340-a38cbccc22f3"
-      (reference "#PWR038") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR032") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/f569abb1-9b05-47f6-815b-bdd0365d4369"
+      (reference "#PWR033") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/9738f3eb-afaa-4646-b637-6adb21d4ba6d"
-      (reference "#PWR039") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR034") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/8325b741-a984-44e7-9686-ef247b191cc9"
-      (reference "#PWR040") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/9f493c2e-5d8f-496f-8d05-7de8c92cf8fc"
+      (reference "#PWR035") (unit 1) (value "+1V8") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/0ab50303-f4a8-439b-baca-679699015e3b"
-      (reference "#PWR041") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR036") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/8f07b61d-a17e-4eb0-982d-2bab8672e49d"
-      (reference "#PWR042") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR037") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/6a319223-10ea-42b7-b453-6011540e6d26"
+      (reference "#PWR038") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/00c7276a-9a73-4b46-9525-39aae614c7a4"
+      (reference "#PWR039") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/60cefddf-d83f-4a94-89e4-ed7dcdd33286"
+      (reference "#PWR040") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/24e5839c-d455-4903-8d7e-e345852c1f1e"
+      (reference "#PWR041") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/200b72fa-859f-485e-8cad-ccbac8d6a8a8"
+      (reference "#PWR042") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/365cc07e-ac42-4bc4-b39b-29ce1bc9d7b4"
       (reference "#PWR043") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/92e2f620-8542-408e-80d1-4d9642388eee"
@@ -1116,176 +1116,248 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/ddfd230a-288c-43f8-b1ed-90a1c15b4ff4"
       (reference "#PWR080") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7f3d01c9-a540-4255-bb41-e7f490920ebb"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/bc1ebbe3-5da6-4c1a-8a98-9d51791e5c8b"
       (reference "#PWR081") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/cbe72e0d-f8e2-423d-a83f-cb5aeee9e95f"
-      (reference "#PWR082") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f07fea09-e05b-4351-9eac-06c481d56d35"
+      (reference "#PWR082") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/3dca21d0-abc4-4988-9052-6d92c7424180"
-      (reference "#PWR083") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/bb1a0fa3-b186-437d-b416-d03ca3758724"
+      (reference "#PWR083") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/0701c109-b423-457d-b6c5-659ea86ed154"
-      (reference "#PWR084") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b04f0b01-67d4-4de5-81f2-1cfb25fe5262"
+      (reference "#PWR084") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/647b1e3f-617e-4957-9cfb-95a3423a91c6"
-      (reference "#PWR085") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/58bf6f2d-ba24-43b5-8d98-503a69aeb496"
+      (reference "#PWR085") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/18deefdb-86ad-402e-b19b-2b9238964dbb"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/00a97f3a-9607-4e3d-80bb-d264cefd2f01"
       (reference "#PWR086") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/cea16ce2-59fc-4104-bce4-95922e20a35a"
-      (reference "#PWR087") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/935c7d3f-3e71-4ca0-90b6-6330d6aff18b"
+      (reference "#PWR087") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7597ad86-18c0-429e-91f8-a4c1ce5c6fe7"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/8846d825-a0b1-491e-a2cd-ed466a1b885a"
       (reference "#PWR088") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f049422f-6116-4c8c-b586-fa90d061764c"
-      (reference "#PWR089") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/dbdb7ef8-3173-49a8-8a13-42514ccdb11b"
+      (reference "#PWR089") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/e0940d5b-ab58-4de6-9fe4-83c83ccd0451"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f5f4973a-53fa-41fa-bdef-40114d30f2cd"
       (reference "#PWR090") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/40f9013f-7436-4133-88e5-9d6786b5075d"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7f3d01c9-a540-4255-bb41-e7f490920ebb"
       (reference "#PWR091") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/1c15a01f-88cf-42ff-862a-bdb62ffcc5c3"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/cbe72e0d-f8e2-423d-a83f-cb5aeee9e95f"
       (reference "#PWR092") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/476fad74-971b-4d18-a5f9-ae757cc0fca2"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/3dca21d0-abc4-4988-9052-6d92c7424180"
       (reference "#PWR093") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7fc06306-608f-423c-9020-e4c39e409aa5"
-      (reference "#PWR094") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/0701c109-b423-457d-b6c5-659ea86ed154"
+      (reference "#PWR094") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b7ec0dfc-8bbc-469a-b186-f758db56fd09"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/647b1e3f-617e-4957-9cfb-95a3423a91c6"
       (reference "#PWR095") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3d97e40c-8f42-4bfe-b4a8-5bd97b5c4d89"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/18deefdb-86ad-402e-b19b-2b9238964dbb"
       (reference "#PWR096") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5a20c065-23a6-471d-83dd-c313a4fd9bc1"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/cea16ce2-59fc-4104-bce4-95922e20a35a"
       (reference "#PWR097") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/754127d2-a3e7-4870-a749-cd1bcf9967a9"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7597ad86-18c0-429e-91f8-a4c1ce5c6fe7"
       (reference "#PWR098") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b98ab294-8a23-467f-abbf-43c52f71d502"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f049422f-6116-4c8c-b586-fa90d061764c"
       (reference "#PWR099") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1385c12a-d280-4dd1-81f3-1cbb294ea208"
-      (reference "#PWR0100") (unit 1) (value "~") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/e0940d5b-ab58-4de6-9fe4-83c83ccd0451"
+      (reference "#PWR0100") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/107ac8d7-58d7-4b62-a91c-4dff372b365f"
-      (reference "#PWR0101") (unit 1) (value "~") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/40f9013f-7436-4133-88e5-9d6786b5075d"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c8c26721-719d-4d80-8f3a-46d3f05f3faf"
-      (reference "#PWR0102") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/1c15a01f-88cf-42ff-862a-bdb62ffcc5c3"
+      (reference "#PWR0102") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/50b9e03a-6ddd-47a7-bb5f-aa394c371819"
-      (reference "#PWR0103") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/476fad74-971b-4d18-a5f9-ae757cc0fca2"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3e51e9bb-5d11-426b-9133-016583a3b9b3"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/7fc06306-608f-423c-9020-e4c39e409aa5"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b793b0ed-c284-4eb9-856c-edc8a65967c3"
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b7ec0dfc-8bbc-469a-b186-f758db56fd09"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/77de9af8-02c7-4027-8cc2-8e01649e8ea1"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3d97e40c-8f42-4bfe-b4a8-5bd97b5c4d89"
       (reference "#PWR0106") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ebe8ebbc-37ab-49da-a86a-db5a32fdfcd8"
-      (reference "#PWR0107") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5a20c065-23a6-471d-83dd-c313a4fd9bc1"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/581869c4-a6bb-4daf-80a1-19358509ae70"
-      (reference "#PWR0108") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/754127d2-a3e7-4870-a749-cd1bcf9967a9"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3da5bd4b-730e-494a-9bd3-ba5cea4a6532"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b98ab294-8a23-467f-abbf-43c52f71d502"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f0a89c26-5ce5-4d5f-a3e6-c02bd666b44b"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c8c26721-719d-4d80-8f3a-46d3f05f3faf"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/94d36b04-15b6-4cb8-82ea-f639917c199c"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3e51e9bb-5d11-426b-9133-016583a3b9b3"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d8b7ba86-d201-44dc-94b9-efb145659311"
-      (reference "#PWR0112") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b793b0ed-c284-4eb9-856c-edc8a65967c3"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3fb15ace-c044-483e-824d-5b1961079ba6"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/77de9af8-02c7-4027-8cc2-8e01649e8ea1"
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f368717b-1cfc-4d59-b153-35190acb15b4"
-      (reference "#PWR0114") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/920e795d-6729-4da0-82ff-c7275591de4e"
+      (reference "#PWR0114") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/52694099-d935-42a7-b250-3107a1872aad"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/426293c8-edf2-43e1-9f8e-d42a1268ddce"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a3b97468-4934-4f02-85c6-bb6fd9a41979"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a4f13780-ac9a-4906-a647-d64f23910411"
       (reference "#PWR0116") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/7cd30a80-de94-4fef-96a9-69507e6d1759"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/aba5258d-33dd-47f4-a79b-8530db3a783e"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8a38dcac-2cb6-4763-9594-6dd6603ed89c"
-      (reference "#PWR0118") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ebe8ebbc-37ab-49da-a86a-db5a32fdfcd8"
+      (reference "#PWR0118") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9f8e1bcd-ee12-4fb8-9823-ea10183e84bf"
-      (reference "#PWR0119") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d8b7ba86-d201-44dc-94b9-efb145659311"
+      (reference "#PWR0119") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9de0028a-56d0-4b16-9e28-1a605d2bd9c5"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3fb15ace-c044-483e-824d-5b1961079ba6"
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c235c1da-396c-4442-accf-a52eda85db86"
-      (reference "#PWR0121") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f368717b-1cfc-4d59-b153-35190acb15b4"
+      (reference "#PWR0121") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9b920e89-2f27-4910-852f-95e9c91d07f1"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/52694099-d935-42a7-b250-3107a1872aad"
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c38c324b-6470-40dd-99c8-eebe83edaa5d"
-      (reference "#PWR0123") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a3b97468-4934-4f02-85c6-bb6fd9a41979"
+      (reference "#PWR0123") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1eba84f1-8c94-41e8-83b4-abbe6deb2466"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/7cd30a80-de94-4fef-96a9-69507e6d1759"
       (reference "#PWR0124") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/67a787d7-9513-4729-b6f5-40f9e1fe04be"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8a38dcac-2cb6-4763-9594-6dd6603ed89c"
       (reference "#PWR0125") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/20cbd2d9-ed4d-41d0-9ce3-b80634560159"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9f8e1bcd-ee12-4fb8-9823-ea10183e84bf"
       (reference "#PWR0126") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9fd43fd1-5c43-4908-9187-d0549159fa85"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9de0028a-56d0-4b16-9e28-1a605d2bd9c5"
       (reference "#PWR0127") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1d2fd55f-4924-4e5c-a6ac-58692bb6ba0e"
-      (reference "#PWR0128") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/4dcf433a-d0c0-4f7e-9bbc-bdf349d257d5"
+      (reference "#PWR0128") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ab1e7c07-86e6-4350-8342-79006f2e7790"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/60e5808f-e3f1-4d79-863d-b2e27b162657"
       (reference "#PWR0129") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e180a080-69cd-4cb8-ad0b-607b1a808079"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c235c1da-396c-4442-accf-a52eda85db86"
       (reference "#PWR0130") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/80fa96a9-6088-4d63-baa8-7c23313bb1d7"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9b920e89-2f27-4910-852f-95e9c91d07f1"
       (reference "#PWR0131") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ed5075ea-8242-4b66-a4ab-69104a0cc306"
-      (reference "#PWR0132") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c38c324b-6470-40dd-99c8-eebe83edaa5d"
+      (reference "#PWR0132") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/81f0716a-c5f1-4609-a3d6-128ced6e5c93"
-      (reference "#PWR0133") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1eba84f1-8c94-41e8-83b4-abbe6deb2466"
+      (reference "#PWR0133") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7dbab69f-8724-4a1c-b8db-bd192154f5a5"
-      (reference "#PWR0134") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/67a787d7-9513-4729-b6f5-40f9e1fe04be"
+      (reference "#PWR0134") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/2aa3a442-dd7f-4fd9-8899-aef72653008e"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/20cbd2d9-ed4d-41d0-9ce3-b80634560159"
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/78a34ad9-66bd-4fa7-a93b-b2421e2dc253"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9fd43fd1-5c43-4908-9187-d0549159fa85"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1d2fd55f-4924-4e5c-a6ac-58692bb6ba0e"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ab1e7c07-86e6-4350-8342-79006f2e7790"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e180a080-69cd-4cb8-ad0b-607b1a808079"
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1385c12a-d280-4dd1-81f3-1cbb294ea208"
+      (reference "#PWR0140") (unit 1) (value "~") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/107ac8d7-58d7-4b62-a91c-4dff372b365f"
+      (reference "#PWR0141") (unit 1) (value "~") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/80fa96a9-6088-4d63-baa8-7c23313bb1d7"
+      (reference "#PWR0142") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/50b9e03a-6ddd-47a7-bb5f-aa394c371819"
+      (reference "#PWR0143") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/581869c4-a6bb-4daf-80a1-19358509ae70"
       (reference "#PWR0144") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/6b81d998-036b-414a-8bf7-fde2cf661b44"
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3da5bd4b-730e-494a-9bd3-ba5cea4a6532"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f0a89c26-5ce5-4d5f-a3e6-c02bd666b44b"
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/94d36b04-15b6-4cb8-82ea-f639917c199c"
+      (reference "#PWR0147") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7936ff09-76e4-48f0-9000-9c6626c7c1ca"
+      (reference "#PWR0148") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/4b86b6e4-76f1-463b-9683-c48238849c24"
+      (reference "#PWR0149") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/04ceee2e-f1cf-4206-8aa4-a8a6d34a1653"
+      (reference "#PWR0150") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d377619b-7ed7-4a8b-b1b1-ac06c1d89d04"
+      (reference "#PWR0151") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ed5075ea-8242-4b66-a4ab-69104a0cc306"
+      (reference "#PWR0152") (unit 1) (value "+5V") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/81f0716a-c5f1-4609-a3d6-128ced6e5c93"
+      (reference "#PWR0153") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7dbab69f-8724-4a1c-b8db-bd192154f5a5"
+      (reference "#PWR0154") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/2ea6d67a-bea7-4f12-a4c8-cc5c8e6dbf54"
+      (reference "#PWR0155") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/2aa3a442-dd7f-4fd9-8899-aef72653008e"
+      (reference "#PWR0156") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/84288ba3-0e36-4717-80ef-e9a66e95dc4c"
+      (reference "#PWR0157") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ab540edb-9580-4b97-bcee-4bab975f666d"
+      (reference "#PWR0158") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/56bac57a-00db-4533-8809-5dc8d525d81f"
+      (reference "#PWR0159") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/78a34ad9-66bd-4fa7-a93b-b2421e2dc253"
+      (reference "#PWR0160") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/6b81d998-036b-414a-8bf7-fde2cf661b44"
+      (reference "#PWR0161") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e4d54d7f-74d3-4169-8655-a3a2441e87b5"
       (reference "#PWR0162") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
@@ -1293,35 +1365,35 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/ea7a3d21-6836-4999-9c71-31130922a791"
       (reference "#PWR0163") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/eeb182ac-bb1d-40e4-a384-80b0911b6fc6"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/49d7b7fd-34bf-4fca-8e07-a1f7f291d90d"
       (reference "#PWR0164") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/60461795-2ac5-482c-89cc-62ba34088510"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/2313fa36-cb2c-4575-ad1c-c96ae040531c"
       (reference "#PWR0165") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/49d7b7fd-34bf-4fca-8e07-a1f7f291d90d"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/1ce2e745-de82-4354-8ccb-5c3949658974"
       (reference "#PWR0166") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/2313fa36-cb2c-4575-ad1c-c96ae040531c"
-      (reference "#PWR0167") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/eeb182ac-bb1d-40e4-a384-80b0911b6fc6"
+      (reference "#PWR0167") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/1ce2e745-de82-4354-8ccb-5c3949658974"
-      (reference "#PWR0168") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/60461795-2ac5-482c-89cc-62ba34088510"
+      (reference "#PWR0168") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/bce5085a-3a7b-4a66-ab6f-213a86b9d195"
       (reference "#PWR0169") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c54f5fc2-a250-4a2c-b0b6-0394da00d525"
+      (reference "#PWR0170") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/8fb92c98-3e29-4301-9bf2-bdb052986542"
-      (reference "#PWR0170") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR0171") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/ef6a6a1c-25b3-4130-9479-a38f1e47e0a5"
-      (reference "#PWR0171") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR0172") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/30c9ed54-acc3-466f-903b-48c211360057"
-      (reference "#PWR0172") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c54f5fc2-a250-4a2c-b0b6-0394da00d525"
-      (reference "#PWR0173") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR0173") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/109006bf-7ed0-4a7e-939c-64a78e46f363"
       (reference "#PWR0174") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
@@ -1344,17 +1416,20 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0d0f4100-88f4-4032-bd68-a1df51848c0a"
       (reference "#PWR0180") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9a508589-1466-4e38-927b-123fc628d46c"
-      (reference "#PWR0182") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0ab7531f-f638-43e2-90ba-313f087776da"
-      (reference "#PWR0183") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/cf70901e-e483-461a-8b01-739a0ae99dbd"
-      (reference "#PWR0184") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR0181") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/3b6ae189-e386-4096-bbe1-6fd5498bf1f6"
-      (reference "#PWR0185") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+      (reference "#PWR0182") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9a508589-1466-4e38-927b-123fc628d46c"
+      (reference "#PWR0183") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0ab7531f-f638-43e2-90ba-313f087776da"
+      (reference "#PWR0184") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/3728bbcb-7d26-4e84-baeb-0d61ed34f1d5"
+      (reference "#PWR0185") (unit 1) (value "GND") (footprint "")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/b856be21-1a6b-4a89-89ed-2e80b2079d43"
       (reference "#PWR0186") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
@@ -1443,434 +1518,356 @@
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/05e89c23-822a-4f7c-b33d-1e1c6dad5bbb"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/00a97f3a-9607-4e3d-80bb-d264cefd2f01"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/a7797edc-cb27-4153-a799-aac3f449c877"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/04ceee2e-f1cf-4206-8aa4-a8a6d34a1653"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/d5a6e011-3ba1-4694-9b0e-374fe3ab9b99"
+      (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/2ea6d67a-bea7-4f12-a4c8-cc5c8e6dbf54"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/da921c0d-f6c5-4720-9f83-04b180036966"
+      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/3728bbcb-7d26-4e84-baeb-0d61ed34f1d5"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/818d488b-353f-4d93-a798-315de117413a/6c3f8793-79c8-47a8-b766-b92c630c48a5"
+      (reference "C1") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/426293c8-edf2-43e1-9f8e-d42a1268ddce"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/4b86b6e4-76f1-463b-9683-c48238849c24"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/4dcf433a-d0c0-4f7e-9bbc-bdf349d257d5"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/56bac57a-00db-4533-8809-5dc8d525d81f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/58bf6f2d-ba24-43b5-8d98-503a69aeb496"
-      (reference "#PWR?") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/60e5808f-e3f1-4d79-863d-b2e27b162657"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7936ff09-76e4-48f0-9000-9c6626c7c1ca"
-      (reference "#PWR?") (unit 1) (value "+1V2") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/84288ba3-0e36-4717-80ef-e9a66e95dc4c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/8846d825-a0b1-491e-a2cd-ed466a1b885a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/920e795d-6729-4da0-82ff-c7275591de4e"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/935c7d3f-3e71-4ca0-90b6-6330d6aff18b"
-      (reference "#PWR?") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a4f13780-ac9a-4906-a647-d64f23910411"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ab540edb-9580-4b97-bcee-4bab975f666d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/aba5258d-33dd-47f4-a79b-8530db3a783e"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b04f0b01-67d4-4de5-81f2-1cfb25fe5262"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/bb1a0fa3-b186-437d-b416-d03ca3758724"
-      (reference "#PWR?") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/bc1ebbe3-5da6-4c1a-8a98-9d51791e5c8b"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d377619b-7ed7-4a8b-b1b1-ac06c1d89d04"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/dbdb7ef8-3173-49a8-8a13-42514ccdb11b"
-      (reference "#PWR?") (unit 1) (value "+1V35") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f07fea09-e05b-4351-9eac-06c481d56d35"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f5f4973a-53fa-41fa-bdef-40114d30f2cd"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    (path "/818d488b-353f-4d93-a798-315de117413a/725190c4-4b6a-4c21-8c5b-9df3b9276c97"
+      (reference "C2") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/5066fb94-e724-4af4-84f4-83faa4cc3f2d"
-      (reference "C1") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+      (reference "C3") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/13cc14ff-f1ea-49c0-b58e-2202c460c059"
-      (reference "C2") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+      (reference "C4") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/0e2b8fc4-5de4-4d09-8446-628a46097a03"
-      (reference "C3") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/adb097dc-e643-4843-956d-08e07f046aa1"
-      (reference "C4") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/03c99af0-1e68-4407-b41b-4f2046969cde"
       (reference "C5") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/e1e9235b-83e0-42b3-8ef2-92952505dac6"
+    (path "/818d488b-353f-4d93-a798-315de117413a/adb097dc-e643-4843-956d-08e07f046aa1"
       (reference "C6") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/03c99af0-1e68-4407-b41b-4f2046969cde"
+      (reference "C7") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/e1e9235b-83e0-42b3-8ef2-92952505dac6"
+      (reference "C8") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/610ab3de-1355-4dfa-9378-31d61080628b"
-      (reference "C7") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+      (reference "C9") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/49741a94-8d94-4e1b-8c78-181e50efe03b"
-      (reference "C8") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/1629a0f0-f327-4dca-9d38-937a9f356803"
-      (reference "C9") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/718eeaf7-0977-40de-a65c-7c1ccdb53f7e"
       (reference "C10") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/e73e0193-b87e-4a40-aa65-e36b5b9f780a"
+    (path "/818d488b-353f-4d93-a798-315de117413a/1629a0f0-f327-4dca-9d38-937a9f356803"
       (reference "C11") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/718eeaf7-0977-40de-a65c-7c1ccdb53f7e"
+      (reference "C12") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/e73e0193-b87e-4a40-aa65-e36b5b9f780a"
+      (reference "C13") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/9a34ef36-01c6-45ca-a174-8ac65468f4d5"
-      (reference "C12") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/2b42efd7-40c5-4cf7-a98a-99acbc9c3b89"
-      (reference "C13") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/b6ff3db7-fd34-4695-99b1-984afa9fae3d"
       (reference "C14") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/2b42efd7-40c5-4cf7-a98a-99acbc9c3b89"
+      (reference "C15") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/b6ff3db7-fd34-4695-99b1-984afa9fae3d"
+      (reference "C16") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/5132d7af-0a0a-4920-a030-79e8221755f7"
-      (reference "C15") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/bff47526-6486-4716-9a55-c6686dc01f0a"
-      (reference "C16") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/9761234d-31bb-456f-a95f-59953b780441"
       (reference "C17") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/bff47526-6486-4716-9a55-c6686dc01f0a"
+      (reference "C18") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/9761234d-31bb-456f-a95f-59953b780441"
+      (reference "C19") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/126b6c90-dfb9-4c71-af9c-3682e1d6d711"
-      (reference "C18") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/572077b3-c4ea-425b-b6bd-4b8da3360181"
-      (reference "C19") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/458b1cd0-58d8-438e-b4cd-fa088e1d7bef"
       (reference "C20") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/f58dda66-3408-408c-8ffb-566ad4c5f0ef"
+    (path "/818d488b-353f-4d93-a798-315de117413a/572077b3-c4ea-425b-b6bd-4b8da3360181"
       (reference "C21") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/d23239a9-b151-4c53-9f61-5eb5f5d8050c"
+    (path "/818d488b-353f-4d93-a798-315de117413a/458b1cd0-58d8-438e-b4cd-fa088e1d7bef"
       (reference "C22") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/7ae726c0-a66a-44e0-b761-9ab14731cc86"
+    (path "/818d488b-353f-4d93-a798-315de117413a/f58dda66-3408-408c-8ffb-566ad4c5f0ef"
       (reference "C23") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/8a725df4-5079-41cd-b8b3-c73093f00f53"
+    (path "/818d488b-353f-4d93-a798-315de117413a/d23239a9-b151-4c53-9f61-5eb5f5d8050c"
       (reference "C24") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/a4d20558-1232-48bc-ad3b-8c21725889e0"
+    (path "/818d488b-353f-4d93-a798-315de117413a/7ae726c0-a66a-44e0-b761-9ab14731cc86"
       (reference "C25") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/4d18d5ab-8e26-4623-b181-323c72971502"
+    (path "/818d488b-353f-4d93-a798-315de117413a/8a725df4-5079-41cd-b8b3-c73093f00f53"
       (reference "C26") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/a4d20558-1232-48bc-ad3b-8c21725889e0"
+      (reference "C27") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/4d18d5ab-8e26-4623-b181-323c72971502"
+      (reference "C28") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/cb1a53be-9ecd-409e-a481-d33d1dcc9094"
-      (reference "C27") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C29") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/09bc1929-4a01-41ac-a793-b0576fa8b160"
-      (reference "C28") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C30") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/b94e1150-fce8-4c11-abeb-7062ddce304a"
-      (reference "C29") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C31") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/a1f9c299-8735-49a9-86b1-668f0e34084b"
-      (reference "C30") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/d10d91f2-69d4-47a2-8c89-75e889e87168"
-      (reference "C31") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/c2e70d74-f1bb-48ab-87ab-9b8de20d8b7d"
       (reference "C32") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/6673c9e6-71c8-40bd-aa05-fa17876e1333"
-      (reference "C33") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/eab0545f-7acf-466d-8c60-120a3db39441"
-      (reference "C34") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/9db33f6a-8f7d-4bc8-9d68-9e53459edcb2"
-      (reference "C35") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/892c9947-da20-40e3-b747-da2aadd18b90"
-      (reference "C36") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d27f4c17-2447-4e6b-9eaf-8530a756b548"
-      (reference "C37") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d9c2f2ab-7370-4072-823e-efffb33f06b2"
-      (reference "C38") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/c45e269f-ec07-43f5-810a-c6cf18c1c59b"
-      (reference "C39") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b0d7120e-378b-49ba-bffe-74468392709c"
-      (reference "C40") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d1c0618b-fa44-40e0-bcc4-3956324c7331"
-      (reference "C41") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/8ab31a5f-a5b0-420e-b496-658c3804464a"
-      (reference "C42") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/995f2599-ab7e-42ce-8f0f-def5dcd1b279"
-      (reference "C43") (unit 1) (value "C_33p_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5c006379-7f23-45fa-b785-b4ffb9159e1a"
-      (reference "C44") (unit 1) (value "C_33p_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ffa164f1-ed08-4d1e-9ca2-d476fa3e2d89"
-      (reference "C45") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9e497854-c8ff-4bf5-b3cf-7e086eff86b8"
-      (reference "C46") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/cf3fb521-ff0f-473d-99b1-f55058025b29"
-      (reference "C47") (unit 1) (value "C_47n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5a0ae0de-1e41-4d8f-9b31-90d6e13a4cfd"
-      (reference "C48") (unit 1) (value "C_470n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/cc535155-532a-48a9-876e-2444c97098cf"
-      (reference "C49") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e9c72166-e808-49fc-abe9-3b663e58137a"
-      (reference "C50") (unit 1) (value "C_470n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f6cff8bc-a0aa-4cdc-a980-e907ff451d6e"
-      (reference "C51") (unit 1) (value "C_10n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a061fc1c-6bb9-4c80-ad57-302ed81a6647"
-      (reference "C52") (unit 1) (value "C_4u7_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c1104a55-bb96-4ba6-accd-96cee94420c4"
-      (reference "C53") (unit 1) (value "C_4u7_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d198a902-3764-4db1-9c72-e2d2a3aec1ab"
-      (reference "C54") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/04a05648-826c-48b2-8615-e928bc9eed36"
-      (reference "C55") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/25c20a13-ce65-4739-8b56-43fc5483c90f"
-      (reference "C56") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/206a77f2-561d-4256-af80-9e152fee746c"
-      (reference "C57") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c9856187-dfb7-48a5-aab3-e27ae29a6a35"
-      (reference "C58") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8a98e38a-9b56-426b-b242-08d5c3082b35"
-      (reference "C59") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b4662c74-f8a6-4753-8898-59fb1fc02c03"
-      (reference "C60") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/35ee9090-c0c9-464b-a33e-9d80a7ff564e"
-      (reference "C61") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b157a285-a5d0-4777-9ca0-dbfbcf57bf9d"
-      (reference "C62") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/26442413-eda7-46e2-b251-09a2d278df9b"
-      (reference "C63") (unit 1) (value "C_33u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/58c6820e-40b2-4996-a2d2-a2e3a3eb49dc"
-      (reference "C64") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/44f0d61f-2b67-498f-91cb-258e59abd7e8"
-      (reference "C65") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ddd39834-63fa-4d14-b1f7-1594d80e7137"
-      (reference "C66") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a0701e91-b272-489a-ad2a-80a5b591266d"
-      (reference "C67") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a4cd6a2f-f832-4e9a-8a62-d6f6a91d330d"
-      (reference "C71") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/fafa6208-32f9-4e1c-a7a0-ee929feafeed"
-      (reference "C80") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e0ca0cb9-76fb-4beb-865d-ed9a9d010568"
-      (reference "C81") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/64d41203-0648-46ce-aa14-7ca103e6a486"
-      (reference "C82") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/025ab184-aeb6-43b9-96f6-4276c1e36903"
-      (reference "C83") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/034b7546-e19c-4f76-bd18-e8540d917e9c"
-      (reference "C84") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/a4284de2-0d5e-4f84-8ac8-5cdd03b5de41"
-      (reference "C85") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/defebad7-bd0c-4d14-97fb-69f09441d2c4"
-      (reference "C86") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/d61d973c-9c14-4f9d-9030-ac6ca360632a"
-      (reference "C87") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/accf3276-7520-4b34-a503-ae95551054f5"
-      (reference "C88") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17a422e5-4936-402a-973e-33fdc795de45"
-      (reference "C89") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/786e447b-668a-4f40-a590-8765effa329b"
-      (reference "C90") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/0f4fb2e8-07d2-48c3-86a2-4783d4a2afda"
-      (reference "C91") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/10942177-9c29-40d8-b534-7006a6e2c6ec"
-      (reference "C92") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/a65717fb-d35b-456e-aeb6-d4e99123c6ab"
-      (reference "C93") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17cbbe80-b69c-446b-b548-ee8d284c369a"
-      (reference "C94") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17eaede0-935b-4732-b2b8-01298a3c1bf0"
-      (reference "C95") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f0ae34d0-7f57-4b7d-9a24-81e6be6b54db"
-      (reference "C96") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f500720f-d3ee-4c12-8462-bc0cac0bfdc4"
-      (reference "C97") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/cddfd444-b929-47e2-9362-a4b03bcd4142"
-      (reference "C98") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f893507e-198c-4dd1-a1d5-3475699bbe5a"
-      (reference "C99") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/ac58c6b7-4fa1-4416-882d-df212d285161"
-      (reference "C100") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/53518a1b-a343-4aad-911e-fb117955aa44"
-      (reference "C101") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/6359fb12-5c1a-4958-9369-a1fd03b4c095"
-      (reference "C102") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/da0b205b-2f89-48ac-8202-6c92944a3b42"
-      (reference "C103") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/e8ef8b00-6b25-4f31-b47a-60972fb7b979"
-      (reference "C104") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/ca92b807-5c8a-4515-865f-e63a4513862d"
-      (reference "C105") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ecacf2b6-22be-4835-8168-c6f916010687/6911435b-2cdf-4cd8-8953-0b4f61472231"
-      (reference "C106") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/0548b5f0-f775-4d7b-9b45-6d1af80356dd"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/2cda8dac-920a-42d1-8cb2-3a8ff09fab2a"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    (path "/818d488b-353f-4d93-a798-315de117413a/d10d91f2-69d4-47a2-8c89-75e889e87168"
+      (reference "C33") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/c2e70d74-f1bb-48ab-87ab-9b8de20d8b7d"
+      (reference "C34") (unit 1) (value "C_22u_0805") (footprint "crosslink-nx-video-converter-footprints:0805-cap")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/2e38aaba-c88a-4f07-9d8b-3ade62756c29"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C35") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/484dd55e-191c-44cf-90b8-99cf728f5992"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/830a8bd8-8a69-484f-b3df-b6f3a2792753"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/0548b5f0-f775-4d7b-9b45-6d1af80356dd"
+      (reference "C36") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/9aa4453f-855b-421a-bfd0-e36ff3d52207"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C37") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a0cbee93-dbca-40f4-bf99-9a4ff0ede4c1"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/2cda8dac-920a-42d1-8cb2-3a8ff09fab2a"
+      (reference "C38") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/830a8bd8-8a69-484f-b3df-b6f3a2792753"
+      (reference "C39") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/484dd55e-191c-44cf-90b8-99cf728f5992"
+      (reference "C40") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/6673c9e6-71c8-40bd-aa05-fa17876e1333"
+      (reference "C41") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/eab0545f-7acf-466d-8c60-120a3db39441"
+      (reference "C42") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/9db33f6a-8f7d-4bc8-9d68-9e53459edcb2"
+      (reference "C43") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/892c9947-da20-40e3-b747-da2aadd18b90"
+      (reference "C44") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d27f4c17-2447-4e6b-9eaf-8530a756b548"
+      (reference "C45") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d9c2f2ab-7370-4072-823e-efffb33f06b2"
+      (reference "C46") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/c45e269f-ec07-43f5-810a-c6cf18c1c59b"
+      (reference "C47") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/b0d7120e-378b-49ba-bffe-74468392709c"
+      (reference "C48") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d1c0618b-fa44-40e0-bcc4-3956324c7331"
+      (reference "C49") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/8ab31a5f-a5b0-420e-b496-658c3804464a"
+      (reference "C50") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/995f2599-ab7e-42ce-8f0f-def5dcd1b279"
+      (reference "C51") (unit 1) (value "C_33p_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5c006379-7f23-45fa-b785-b4ffb9159e1a"
+      (reference "C52") (unit 1) (value "C_33p_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ffa164f1-ed08-4d1e-9ca2-d476fa3e2d89"
+      (reference "C53") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9e497854-c8ff-4bf5-b3cf-7e086eff86b8"
+      (reference "C54") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/cf3fb521-ff0f-473d-99b1-f55058025b29"
+      (reference "C55") (unit 1) (value "C_47n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5a0ae0de-1e41-4d8f-9b31-90d6e13a4cfd"
+      (reference "C56") (unit 1) (value "C_470n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/cc535155-532a-48a9-876e-2444c97098cf"
+      (reference "C57") (unit 1) (value "C_1u_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a5ca0348-711f-4bac-842e-3475f4277ce8"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C58") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ab947f09-8bcd-4732-a66e-974ab9d21154"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e9c72166-e808-49fc-abe9-3b663e58137a"
+      (reference "C59") (unit 1) (value "C_470n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b78fe1a3-a747-472f-b56d-222d7a7adb51"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C60") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d198a902-3764-4db1-9c72-e2d2a3aec1ab"
+      (reference "C61") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/04a05648-826c-48b2-8615-e928bc9eed36"
+      (reference "C62") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/25c20a13-ce65-4739-8b56-43fc5483c90f"
+      (reference "C63") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/206a77f2-561d-4256-af80-9e152fee746c"
+      (reference "C64") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c9856187-dfb7-48a5-aab3-e27ae29a6a35"
+      (reference "C65") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a0cbee93-dbca-40f4-bf99-9a4ff0ede4c1"
+      (reference "C66") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8a98e38a-9b56-426b-b242-08d5c3082b35"
+      (reference "C67") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b4662c74-f8a6-4753-8898-59fb1fc02c03"
+      (reference "C68") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/35ee9090-c0c9-464b-a33e-9d80a7ff564e"
+      (reference "C69") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b157a285-a5d0-4777-9ca0-dbfbcf57bf9d"
+      (reference "C70") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/26442413-eda7-46e2-b251-09a2d278df9b"
+      (reference "C71") (unit 1) (value "C_33u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/58c6820e-40b2-4996-a2d2-a2e3a3eb49dc"
+      (reference "C72") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/44f0d61f-2b67-498f-91cb-258e59abd7e8"
+      (reference "C73") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ddd39834-63fa-4d14-b1f7-1594d80e7137"
+      (reference "C74") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a0701e91-b272-489a-ad2a-80a5b591266d"
+      (reference "C75") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f6cff8bc-a0aa-4cdc-a980-e907ff451d6e"
+      (reference "C76") (unit 1) (value "C_10n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a061fc1c-6bb9-4c80-ad57-302ed81a6647"
+      (reference "C77") (unit 1) (value "C_4u7_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c1104a55-bb96-4ba6-accd-96cee94420c4"
+      (reference "C78") (unit 1) (value "C_4u7_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ce963b27-b298-47b1-947f-4cb85ae079a8"
-      (reference "C?") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+      (reference "C79") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/92e0b097-4643-4337-99fb-5aefdc0d5110"
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/ab947f09-8bcd-4732-a66e-974ab9d21154"
+      (reference "C80") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a4cd6a2f-f832-4e9a-8a62-d6f6a91d330d"
+      (reference "C81") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/fafa6208-32f9-4e1c-a7a0-ee929feafeed"
+      (reference "C82") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e0ca0cb9-76fb-4beb-865d-ed9a9d010568"
+      (reference "C83") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/64d41203-0648-46ce-aa14-7ca103e6a486"
+      (reference "C84") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/025ab184-aeb6-43b9-96f6-4276c1e36903"
+      (reference "C85") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/034b7546-e19c-4f76-bd18-e8540d917e9c"
+      (reference "C86") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/a4284de2-0d5e-4f84-8ac8-5cdd03b5de41"
+      (reference "C87") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/defebad7-bd0c-4d14-97fb-69f09441d2c4"
+      (reference "C88") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/d61d973c-9c14-4f9d-9030-ac6ca360632a"
+      (reference "C89") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/accf3276-7520-4b34-a503-ae95551054f5"
+      (reference "C90") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17a422e5-4936-402a-973e-33fdc795de45"
+      (reference "C91") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/786e447b-668a-4f40-a590-8765effa329b"
+      (reference "C92") (unit 1) (value "C_10u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/0f4fb2e8-07d2-48c3-86a2-4783d4a2afda"
+      (reference "C93") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/10942177-9c29-40d8-b534-7006a6e2c6ec"
+      (reference "C94") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/a65717fb-d35b-456e-aeb6-d4e99123c6ab"
+      (reference "C95") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17cbbe80-b69c-446b-b548-ee8d284c369a"
+      (reference "C96") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/17eaede0-935b-4732-b2b8-01298a3c1bf0"
+      (reference "C97") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f0ae34d0-7f57-4b7d-9a24-81e6be6b54db"
+      (reference "C98") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f500720f-d3ee-4c12-8462-bc0cac0bfdc4"
+      (reference "C99") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/cddfd444-b929-47e2-9362-a4b03bcd4142"
+      (reference "C100") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/f893507e-198c-4dd1-a1d5-3475699bbe5a"
+      (reference "C101") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/ac58c6b7-4fa1-4416-882d-df212d285161"
+      (reference "C102") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/53518a1b-a343-4aad-911e-fb117955aa44"
+      (reference "C103") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/6359fb12-5c1a-4958-9369-a1fd03b4c095"
+      (reference "C104") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/da0b205b-2f89-48ac-8202-6c92944a3b42"
+      (reference "C105") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/e8ef8b00-6b25-4f31-b47a-60972fb7b979"
+      (reference "C106") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/ca92b807-5c8a-4515-865f-e63a4513862d"
+      (reference "C107") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/ecacf2b6-22be-4835-8168-c6f916010687/6911435b-2cdf-4cd8-8953-0b4f61472231"
+      (reference "C108") (unit 1) (value "C_100n_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/ecb70e54-eff1-4aec-b505-7e428edb79ec"
       (reference "D1") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/656ba375-c93d-4980-b2d0-aad39ae45f52"
+    (path "/818d488b-353f-4d93-a798-315de117413a/92e0b097-4643-4337-99fb-5aefdc0d5110"
       (reference "D2") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/da0687cd-5f29-4e9c-ace5-a66082971410"
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/f3f1928c-9ef5-42c6-8cde-aeb22324f245"
       (reference "D3") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/63cceb4a-aab9-40c9-be27-bfd6b68e80f2"
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d3868031-4407-4d7b-a1c2-e0b2907561ec"
       (reference "D4") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/a96457fd-d7a3-4ee7-bd75-a1df8fbe53b2"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a8ba815e-481b-408e-9c1d-07707c422839"
       (reference "D5") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/69d535de-cd7e-4a7f-b7a9-d618481e8a4d"
-      (reference "D6") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/038014c3-791d-4e81-ac1e-afbf1cf1ac0b"
-      (reference "D7") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/d587bcb1-3d6a-4bdd-b8cc-28cc713928b6"
-      (reference "D8") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a8ba815e-481b-408e-9c1d-07707c422839"
-      (reference "D11") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/eab2e681-caa4-4903-a761-b8455e1f4e7c"
-      (reference "D12") (unit 1) (value "LTST-C190KRKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d3868031-4407-4d7b-a1c2-e0b2907561ec"
-      (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/f3f1928c-9ef5-42c6-8cde-aeb22324f245"
-      (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
+      (reference "D6") (unit 1) (value "LTST-C190KRKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/08f4f7e3-5b06-4017-8fd5-134e2cd39b8e"
       (reference "F1") (unit 1) (value "04671.25NR") (footprint "crosslink-nx-video-converter-footprints:0603-Fuse-Littelfuse-0467")
@@ -1905,17 +1902,17 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/012c1c8d-bac5-44af-804f-3fa74013b712"
       (reference "J4") (unit 1) (value "WE_68715014522_ONE-SIDE") (footprint "crosslink-nx-video-converter-footprints:WE_68715014522_ONE-SIDE")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/fcd5547d-00a5-458e-943e-8231adb8a717"
+      (reference "J5") (unit 1) (value "FTSH-105-01-F-DV-K") (footprint "crosslink-nx-video-converter-footprints:PinHeader_2x5_P1.27_SMD")
+    )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/e7a94f30-31c1-4f28-a1c7-b4d9f2b87edf"
-      (reference "J5") (unit 1) (value "WE_68715014522_ONE-SIDE") (footprint "crosslink-nx-video-converter-footprints:WE_68715014522_ONE-SIDE")
+      (reference "J6") (unit 1) (value "WE_68715014522_ONE-SIDE") (footprint "crosslink-nx-video-converter-footprints:WE_68715014522_ONE-SIDE")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9380fd57-7983-408b-aef6-cbddc0235bc9"
-      (reference "J8") (unit 1) (value "2X05") (footprint "crosslink-nx-video-converter-footprints:SHF-105-01-X-D-SM")
+      (reference "J7") (unit 1) (value "2X05") (footprint "crosslink-nx-video-converter-footprints:SHF-105-01-X-D-SM")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/7d2cb618-35a6-4b67-8699-320580468806"
-      (reference "J?") (unit 1) (value "PinHeader_2x4") (footprint "antmicro-footprints:PinHeader_2x04_P2.54mm_Vertical")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/fcd5547d-00a5-458e-943e-8231adb8a717"
-      (reference "J?") (unit 1) (value "FTSH-105-01-F-DV-K") (footprint "crosslink-nx-video-converter-footprints:PinHeader_2x5_P1.27_SMD")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0f5493b6-3984-42c9-9dff-62e746664e31"
+      (reference "J8") (unit 1) (value "61300411121") (footprint "antmicro-footprints:PinHeader_1x4_P2.54mm_Drill1.02mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/e9d0d42d-fbde-4aa1-ae04-0d2a148de628"
       (reference "L1") (unit 1) (value "XEL4030-332MEC") (footprint "crosslink-nx-video-converter-footprints:Coilcraft-XEL4030")
@@ -1941,65 +1938,44 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/850e0a28-a553-476c-ab73-3f937cc011e7"
       (reference "Q3") (unit 1) (value "AO3401A") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/2de59423-d159-4fa9-a95f-e322e299cb3e"
+    (path "/818d488b-353f-4d93-a798-315de117413a/f6d4af1b-0c51-4827-8cd2-7eed94a0f3ad"
       (reference "Q4") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/f6d4af1b-0c51-4827-8cd2-7eed94a0f3ad"
-      (reference "Q5") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
     (path "/818d488b-353f-4d93-a798-315de117413a/129d9992-dd8e-49c1-9181-98e519f09198"
-      (reference "Q6") (unit 1) (value "AO3401A") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/64ac05c8-c91b-49de-af55-aec86461ae56"
-      (reference "Q7") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/76ef5ca0-4e79-4eef-a0f6-4893c7d5d60c"
-      (reference "Q8") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/9e1a3002-b31c-4d6f-8185-84d5727565d4"
-      (reference "Q9") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/ce413c0b-c7c5-495d-b872-637304d7d779"
-      (reference "Q10") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/4dcd6a51-272c-4849-b861-0cd4720a4e84"
-      (reference "Q11") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/f75f670a-e423-43a0-be37-7e213fe68b03"
-      (reference "Q12") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
+      (reference "Q5") (unit 1) (value "AO3401A") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/664896cf-c40d-44a1-a458-97faade52910"
-      (reference "Q13") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
+      (reference "Q6") (unit 1) (value "2N7002") (footprint "crosslink-nx-video-converter-footprints:SOT-23-3")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/603f29c8-7180-4001-9e17-24c57feb7326"
       (reference "R1") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/894f1058-4519-4850-aa47-6bcba5318915"
+      (reference "R2") (unit 1) (value "R_10k_0603") (footprint "antmicro-footprints:0603-res")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/f7b976b1-a710-4cc0-9801-e9934f1d97ff"
+      (reference "R3") (unit 1) (value "R_1k_0603") (footprint "antmicro-footprints:0603-res")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/91f9f066-ce2b-4492-87c6-f86fe185532d"
-      (reference "R2") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R4") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/4a89eed2-492e-4ae4-85d4-9142bac0e838"
-      (reference "R3") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R5") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/fa4d4c28-5412-49cf-99f4-9201cc63dc81"
-      (reference "R4") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R6") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/a2b50366-5329-4f24-802c-47de28aa7f62"
-      (reference "R5") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R7") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/81f1f1c3-956d-48c6-b416-9cfb20f15a87"
-      (reference "R6") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R8") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/bd945b6e-f580-4d1a-8aa0-7f47e59994a0"
-      (reference "R7") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/ff5f4ec2-226c-4c83-b345-a31cfcee8a75"
-      (reference "R8") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R9") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/aad42906-e786-4fa2-a9d5-4889e365844f"
-      (reference "R9") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/b8f5a7cd-7ab1-4664-8c7c-00de792bd687"
-      (reference "R10") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R10") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/9284e695-c056-42fd-8b01-fe2faf12fd26"
       (reference "R11") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
@@ -2007,322 +1983,310 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/d8da3a13-97bd-4071-ad2b-69a8be36e68c"
       (reference "R12") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/e6eada56-a5cd-4488-83e9-0147906dcd8e"
-      (reference "R13") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
     (path "/818d488b-353f-4d93-a798-315de117413a/bdfb8af4-afa9-4735-821e-2c5076ba173e"
-      (reference "R14") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R13") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/8e6197c8-4eb3-4ec5-bed9-9109aa9d4c0a"
-      (reference "R15") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/965b5c5c-8aed-48b9-8273-b2196d97362f"
-      (reference "R16") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/b0ba146b-688c-4922-8da1-45e5825fa522"
-      (reference "R17") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/f136f676-ef21-4453-9a09-211673de0758"
-      (reference "R18") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/bd57b9b6-a65e-47f0-814e-436b07364c58"
-      (reference "R19") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/fd46d771-048e-45ff-b24e-d976a919e004"
+      (reference "R14") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/dcfea8d0-6038-4673-8e30-4c248a46f8a0"
-      (reference "R20") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R15") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/cfeb36b2-638d-4747-a6bd-5958705ffa1d"
-      (reference "R21") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R16") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/7593168c-2d3c-48e9-ac32-1ae87e4b5eb3"
-      (reference "R22") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R17") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/ff5f4ec2-226c-4c83-b345-a31cfcee8a75"
+      (reference "R18") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/47b238b1-6b27-4f7c-a115-924e22bfe26f"
-      (reference "R23") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R19") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/31c9292e-76aa-46b3-8cb1-0d6426b593db"
-      (reference "R24") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R20") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/504903dc-9716-4da8-9ab8-e971571d227f"
-      (reference "R25") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R21") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/6897f925-967d-42b7-8127-079273d57879"
-      (reference "R26") (unit 1) (value "R_3k01_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/120513e4-56d9-4e3b-9034-9b26e9628f7b"
+      (reference "R22") (unit 1) (value "R_3k01_1%_0603") (footprint "antmicro-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/52e58b0a-3012-4a52-b4ac-836294d4efb2"
-      (reference "R27") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R23") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/62c48f6b-5a64-4a47-b1f1-b3eb3d3ce576"
-      (reference "R28") (unit 1) (value "R_13k7_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R24") (unit 1) (value "R_13k7_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/1a9fd3c0-1181-43d6-949d-dc998d252e9c"
-      (reference "R29") (unit 1) (value "R_20k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R25") (unit 1) (value "R_20k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/ecdbe0c3-363b-4240-bb14-73f789c79f22"
-      (reference "R30") (unit 1) (value "R_33k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R26") (unit 1) (value "R_33k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/6408e9f2-3e1a-40e7-8c99-90560068cb26"
-      (reference "R31") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R27") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/bd16b391-45d3-4e0d-9622-84637208b6b8"
-      (reference "R32") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R28") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/88ada430-3651-43c4-934e-a31d4ba29e2c"
-      (reference "R33") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R29") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/3c064c99-8eb8-4479-99b1-3792dffbad42"
-      (reference "R34") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R30") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/69bd3725-6760-4470-9113-4172734bcdfc"
-      (reference "R35") (unit 1) (value "R_3k01_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/9b32ec9f-f582-474f-bcf2-a5c18a7fc558"
+      (reference "R31") (unit 1) (value "R_3k01_1%_0603") (footprint "antmicro-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/e3b4d612-0576-4b38-af71-42171a8089d8"
-      (reference "R36") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R32") (unit 1) (value "R_10k_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/233b2122-34a0-459f-96f1-ffc410c206f6"
-      (reference "R37") (unit 1) (value "R_12k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R33") (unit 1) (value "R_12k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/2de37087-33af-4229-a392-cd4e0c5243ff"
-      (reference "R38") (unit 1) (value "R_24k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R34") (unit 1) (value "R_24k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/069901cc-6cb1-472b-9968-8e61cd690864"
-      (reference "R39") (unit 1) (value "R_18k7_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R35") (unit 1) (value "R_18k7_1%_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/b6df02a0-8c3c-4e5e-80d0-f728f7c2a478"
-      (reference "R40") (unit 1) (value "R_15k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R36") (unit 1) (value "R_15k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/8216c940-b07a-4566-9cf8-e30b97104ca6"
-      (reference "R41") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R37") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/4d6c9215-4253-4e90-ba90-e7ac2c36865b"
-      (reference "R42") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R38") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/cc2621a1-3177-4959-b594-a3ea300bf613"
-      (reference "R43") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R39") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/baa76840-5a0b-412d-bb96-7f9988fa6f2e"
-      (reference "R44") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R40") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/7d5a35ff-7cd3-403e-a259-58748861b873"
-      (reference "R45") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R41") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/4b97fb84-686a-48be-9b75-239a8477ffd7"
-      (reference "R46") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
+      (reference "R42") (unit 1) (value "R_0R_0805") (footprint "crosslink-nx-video-converter-footprints:0805-res")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/234a4e67-da38-4cd3-8306-637d39051bb1"
-      (reference "R47") (unit 1) (value "R_100R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R43") (unit 1) (value "R_100R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/5201ef65-869c-4677-b131-9b3e820ee97c"
-      (reference "R48") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
+      (reference "R44") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/406441e4-8461-47a1-94aa-64221c867725"
-      (reference "R49") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
+      (reference "R45") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/3f138089-5e2e-4ff0-9099-b9c00ba327ad"
-      (reference "R50") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d13e79c5-2822-4a84-89a2-daecf80a55df"
-      (reference "R51") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/db009a2c-5b52-481a-ac60-049286370dca"
-      (reference "R52") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/1b63457a-3618-415b-845b-473e9385a3a2"
-      (reference "R53") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
+      (reference "R46") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/c41e50c5-6513-471a-9f90-8a45900624d0"
-      (reference "R54") (unit 1) (value "R_240R_1%_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R47") (unit 1) (value "R_240R_1%_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/d13e79c5-2822-4a84-89a2-daecf80a55df"
+      (reference "R48") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/db009a2c-5b52-481a-ac60-049286370dca"
+      (reference "R49") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/1b63457a-3618-415b-845b-473e9385a3a2"
+      (reference "R50") (unit 1) (value "4x51R_0402_array") (footprint "crosslink-nx-video-converter-footprints:R_Array_4x0402")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/46bd9aac-46f0-448d-9a94-ed56c3db53e8"
-      (reference "R55") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R51") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e08b3011-9dbd-4cca-b918-c5c4c61530e3"
-      (reference "R56") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R52") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1b7b241c-b484-406d-994d-8930f17f5775"
-      (reference "R57") (unit 1) (value "R_37R4_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f6095a21-aa46-4358-a00f-d72843bd510b"
-      (reference "R58") (unit 1) (value "R_750R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/fa211da7-fa6f-4af1-ae63-da64225c5d5e"
-      (reference "R59") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R53") (unit 1) (value "R_37R4_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/120b59a4-c603-442f-8fc5-87d840cc1459"
-      (reference "R60") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R54") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f61014a2-c1aa-4969-b89c-938919bc1a2a"
-      (reference "R61") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5c007079-f0bc-4361-b03f-dfba24a10941"
-      (reference "R62") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d63d2a3c-ee8c-43e2-85d7-477716597707"
-      (reference "R63") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/add56446-ca09-4cc8-82f7-92c8e1d93cb2"
-      (reference "R64") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/4327c29c-e206-4dc5-b029-465234877d8a"
-      (reference "R65") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R55") (unit 1) (value "R_100k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/076b376d-f675-43d3-ba4a-0995f8d17add"
-      (reference "R66") (unit 1) (value "R_105R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+      (reference "R56") (unit 1) (value "R_105R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4455e049-20fc-4198-857a-d5a74e5ed470"
-      (reference "R71") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f6095a21-aa46-4358-a00f-d72843bd510b"
+      (reference "R57") (unit 1) (value "R_750R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c63863c8-27bc-4434-bfce-837ab9749c5a"
-      (reference "R72") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/fa211da7-fa6f-4af1-ae63-da64225c5d5e"
+      (reference "R58") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5c007079-f0bc-4361-b03f-dfba24a10941"
+      (reference "R59") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d63d2a3c-ee8c-43e2-85d7-477716597707"
+      (reference "R60") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/add56446-ca09-4cc8-82f7-92c8e1d93cb2"
+      (reference "R61") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/4327c29c-e206-4dc5-b029-465234877d8a"
+      (reference "R62") (unit 1) (value "R_75R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/00521342-3314-4cb0-8611-1b9101c81f10"
+      (reference "R63") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d838a81d-8e1b-4ffb-9c73-59fae507a5db"
+      (reference "R64") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a3e9f483-b232-46fc-bce7-5e0d47583615"
-      (reference "R73") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R65") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/99724cab-80c4-4088-8fff-909c85044ba8"
-      (reference "R74") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4455e049-20fc-4198-857a-d5a74e5ed470"
+      (reference "R66") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c63863c8-27bc-4434-bfce-837ab9749c5a"
+      (reference "R67") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/58f1c015-b090-461d-a652-092ffb476135"
-      (reference "R75") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R68") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/99724cab-80c4-4088-8fff-909c85044ba8"
+      (reference "R69") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/14b0dbc6-882f-4583-bbe7-a6aa8945cdb8"
-      (reference "R76") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R70") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/1824f8b1-ab2e-4f59-9c77-dc9996b53fab"
-      (reference "R77") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R71") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/213ce4d4-9b4a-4bf5-93c4-0242f4bb6903"
-      (reference "R78") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R72") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/563bd785-bb3f-4fda-b2d0-249340a6e8a6"
+      (reference "R73") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/2afcbca1-6705-4926-b579-487dbcd3fe03"
+      (reference "R74") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/8b88e4d3-3d9f-4c5a-89d3-39cde76efa99"
+      (reference "R75") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/1aa6dd35-aa32-4709-8ec3-23e4c862976f"
+      (reference "R76") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/885e6861-1d4d-4e41-9338-13a6a9f93bb5"
+      (reference "R77") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/266dd7b9-7f8a-4140-a08f-11cb13a619a2"
+      (reference "R78") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/605e46ed-b094-4dc8-8066-aea9dc4cc6b8"
       (reference "R79") (unit 1) (value "R_1k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/563bd785-bb3f-4fda-b2d0-249340a6e8a6"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0f9a53dd-7ecd-4397-a1bd-06d3f8ce9919"
       (reference "R80") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/2afcbca1-6705-4926-b579-487dbcd3fe03"
-      (reference "R81") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/8b88e4d3-3d9f-4c5a-89d3-39cde76efa99"
-      (reference "R82") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/1aa6dd35-aa32-4709-8ec3-23e4c862976f"
-      (reference "R83") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/885e6861-1d4d-4e41-9338-13a6a9f93bb5"
-      (reference "R84") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/266dd7b9-7f8a-4140-a08f-11cb13a619a2"
-      (reference "R85") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/83904fa9-7ae5-49d1-a905-cf5aa0dce8e0"
+      (reference "R81") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/dd33fc44-5418-4ec0-8a02-c98da77d821c"
-      (reference "R86") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R82") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0a6e2e49-01d9-4140-a99b-4a3e9f200a8a"
+      (reference "R83") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/25b33d78-a655-4516-aaa7-55c0cb20619a"
+      (reference "R84") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/79bc51a5-2373-4c15-8c9a-a469013aed4e"
-      (reference "R87") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R85") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/8ed6ffcb-a017-401b-a38c-180fdeb0e4de"
+      (reference "R86") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/70b1f901-4f7b-4804-bacb-f1f0db2a2409"
+      (reference "R87") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/17c683b9-6158-4844-97f0-a51fa6a0b749"
       (reference "R88") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0f9a53dd-7ecd-4397-a1bd-06d3f8ce9919"
-      (reference "R89") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0a6e2e49-01d9-4140-a99b-4a3e9f200a8a"
-      (reference "R90") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/83904fa9-7ae5-49d1-a905-cf5aa0dce8e0"
-      (reference "R91") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/8ed6ffcb-a017-401b-a38c-180fdeb0e4de"
-      (reference "R92") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/70b1f901-4f7b-4804-bacb-f1f0db2a2409"
-      (reference "R93") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/25b33d78-a655-4516-aaa7-55c0cb20619a"
-      (reference "R94") (unit 1) (value "R_100R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/d094ba5c-4e2f-4520-96e0-105d667bbfaf"
+      (reference "R89") (unit 1) (value "R_2k2_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9c582850-3d80-4923-8440-d7aedfa0c74a"
-      (reference "R95") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/d094ba5c-4e2f-4520-96e0-105d667bbfaf"
-      (reference "R96") (unit 1) (value "R_2k2_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R90") (unit 1) (value "R_4k7_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/454eca82-e7f6-462a-b880-99fbfbbdb60a"
-      (reference "R97") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R91") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/83ecec85-7b91-4060-a7a1-f2774bab1234"
-      (reference "R98") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R92") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/64438410-0199-40de-9b7b-23ac7577a347"
-      (reference "R99") (unit 1) (value "R_2k2_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R93") (unit 1) (value "R_2k2_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4e2f4e64-abfd-4eec-98b4-d5f5c3ad31cf"
-      (reference "R100") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R94") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/ffc00f9d-f35d-4f27-a761-6119e0956b1e"
-      (reference "R101") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R95") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/2a1fd57f-d328-4eea-b3fa-9fb67c26e11b"
-      (reference "R102") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R96") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/90630fbd-7d25-46eb-b5d6-c1f8efef6b05"
-      (reference "R103") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R97") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/84b8dc4e-c102-4402-b4fc-3b448fce337e"
-      (reference "R104") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R98") (unit 1) (value "R_0R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/d3545c4e-c33b-4efc-9e17-19b9058b764c"
-      (reference "R105") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/00521342-3314-4cb0-8611-1b9101c81f10"
-      (reference "R?") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
-    )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/d838a81d-8e1b-4ffb-9c73-59fae507a5db"
-      (reference "R?") (unit 1) (value "R_470R_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
+      (reference "R99") (unit 1) (value "R_10k_0603") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4b9cbd64-c8dc-4d69-98be-578aca15cecc"
       (reference "S1") (unit 1) (value "B3U-3000PM") (footprint "crosslink-nx-video-converter-footprints:B3U-3000P")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/5b338d43-da15-4f91-b33c-669805b66a6f"
-      (reference "SW?") (unit 1) (value "SW_DIP_x06") (footprint "crosslink-nx-video-converter-footprints:SW_SPST_6_Slide_MCDHN-06F-T-V_P1.27mm")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/6d1aca8b-453b-422f-a745-eeda6af326b1"
-      (reference "TP1") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/98db99fd-7121-4f13-ab18-a6ea2cd38c79"
-      (reference "TP2") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/94b67971-040e-4ba7-a7cc-7199b4caa86c"
-      (reference "TP3") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/9890189c-5ad9-4e20-bb0d-838372703082"
-      (reference "TP4") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/b50a9c44-68fc-4acc-9e9d-ceb6aa003b75"
-      (reference "TP5") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/05cbd233-ee4d-463e-96fd-5fc1275b9f7d"
-      (reference "TP6") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/c720c647-336f-4f89-b642-2faa85e3e17a"
-      (reference "TP7") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/fb5f23c3-b9a8-4317-9160-2798176e3ffe"
-      (reference "TP8") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
-    )
-    (path "/818d488b-353f-4d93-a798-315de117413a/57f60e77-8f45-4601-99c0-54821174731b"
-      (reference "TP9") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+      (reference "SW1") (unit 1) (value "SW_DIP_x06") (footprint "crosslink-nx-video-converter-footprints:SW_SPST_6_Slide_MCDHN-06F-T-V_P1.27mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/6b3e9cff-0518-4f93-a2d5-766087a0031c"
-      (reference "TP10") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+      (reference "TP1") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/6d1aca8b-453b-422f-a745-eeda6af326b1"
+      (reference "TP2") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/98db99fd-7121-4f13-ab18-a6ea2cd38c79"
+      (reference "TP3") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/94b67971-040e-4ba7-a7cc-7199b4caa86c"
+      (reference "TP4") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/9890189c-5ad9-4e20-bb0d-838372703082"
+      (reference "TP5") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/b50a9c44-68fc-4acc-9e9d-ceb6aa003b75"
+      (reference "TP6") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/05cbd233-ee4d-463e-96fd-5fc1275b9f7d"
+      (reference "TP7") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/c720c647-336f-4f89-b642-2faa85e3e17a"
+      (reference "TP8") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/fb5f23c3-b9a8-4317-9160-2798176e3ffe"
+      (reference "TP9") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/b97339b8-7c35-4f9e-9318-e22f5d5d615f"
-      (reference "TP11") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+      (reference "TP10") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/75092e93-b916-4cba-8f79-09e975af5228"
-      (reference "TP12") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+      (reference "TP11") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/c62722de-c7be-4008-8989-00c6b3ef18b3"
+      (reference "TP12") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/57f60e77-8f45-4601-99c0-54821174731b"
       (reference "TP13") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/332f714c-5f3b-462d-943b-7cf703be4637"
@@ -2343,101 +2307,131 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/306a3ff5-6741-453d-8a61-69b3b2bec55e"
       (reference "TP19") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9ab1ba7a-49b0-4ec4-9456-8245eb1824da"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e8c93e61-5343-45af-876f-d8a5c8791157"
       (reference "TP20") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c9e8705e-5303-4159-b335-e2ede16024ae"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/9ab1ba7a-49b0-4ec4-9456-8245eb1824da"
       (reference "TP21") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e8c93e61-5343-45af-876f-d8a5c8791157"
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/c9e8705e-5303-4159-b335-e2ede16024ae"
       (reference "TP22") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/ec1f02c4-7c16-4dba-9808-ea269b08e649"
       (reference "TP23") (unit 1) (value "TP") (footprint "crosslink-nx-video-converter-footprints:TP-R-1.5")
     )
+    (path "/818d488b-353f-4d93-a798-315de117413a/f07ed2c9-3ce9-40e7-8d08-e64473d81182"
+      (reference "U2") (unit 1) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/3c6327a4-02f6-457f-973c-84109a0c7085"
+      (reference "U2") (unit 2) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/0d3e0599-7992-49bc-851b-26ff2665bc56"
+      (reference "U2") (unit 3) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/61eb5ca6-5147-48c7-afb4-018e32af334f"
+      (reference "U2") (unit 4) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/2466be6f-677f-4ed5-abc4-2f20e772761a"
+      (reference "U2") (unit 5) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/fce43dbc-43a0-450e-9783-661a8f97774d"
+      (reference "U3") (unit 1) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/4fb20af0-8415-4911-8d64-79c399bcfa0e"
+      (reference "U3") (unit 2) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/e17418e1-ebd5-4a4a-b58d-cc388a2f1e1d"
+      (reference "U3") (unit 3) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/58969b71-aa83-4995-a85e-875479259632"
+      (reference "U3") (unit 4) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
+    (path "/818d488b-353f-4d93-a798-315de117413a/69cd42ea-f1f7-47e8-9864-c273c4c5b0f3"
+      (reference "U3") (unit 5) (value " LM339") (footprint "antmicro-footprints:TSSOP-14_4.4x5mm_P0.65mm")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/073f9e2c-b315-4c78-ab00-6138775e7b98"
-      (reference "U1") (unit 1) (value "NCV51200MNTXG") (footprint "crosslink-nx-video-converter-footprints:DFN-10-1EP_3x3mm")
+      (reference "U4") (unit 1) (value "NCV51200MNTXG") (footprint "crosslink-nx-video-converter-footprints:DFN-10-1EP_3x3mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/fd548f95-e897-4644-b39c-2847634a21b9"
-      (reference "U2") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
+      (reference "U5") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/cb1efe04-54a0-4fc8-8d51-59ffc83adce0"
-      (reference "U3") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
+      (reference "U6") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/c84150c1-6a8a-456b-a6e3-f0bb5036528c"
-      (reference "U4") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
+      (reference "U7") (unit 1) (value "AP62301WU-7") (footprint "crosslink-nx-video-converter-footprints:TSOT23-6")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/0c247ad4-ac80-4336-bb64-09ef8c8e278f"
-      (reference "U5") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
+      (reference "U8") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/558f6ebd-2bcd-4f44-9686-82e0664033ee"
-      (reference "U6") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
+      (reference "U9") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/ae2973ed-2d6d-44cf-9f12-d2cf0fabd0c2"
-      (reference "U7") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/50a05f20-c964-414c-9a1c-6a0bbb13e451"
-      (reference "U8") (unit 1) (value "MT41K128M16JT-125_K") (footprint "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110")
-    )
-    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f621a21b-ead1-4856-ac12-7931e2e87a0b"
-      (reference "U8") (unit 2) (value "MT41K128M16JT-125_K") (footprint "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/da505ca4-9d94-4208-8ac3-5ff068bd0e5f"
-      (reference "U9") (unit 1) (value "GS2988") (footprint "crosslink-nx-video-converter-footprints:QFN-16_EP_4x4_Pitch0.65mm")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/273c8f7c-2cd7-4e7b-b970-d8ebcd24dd07"
-      (reference "U10") (unit 1) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8c7dfd31-adf0-46b8-9cce-d370a9644e00"
-      (reference "U10") (unit 2) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
-    )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/01fcb52c-9c66-47b6-89a8-fa95e2b66db6"
-      (reference "U10") (unit 3) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/5706d7bb-99fe-4ce2-bc8d-5893fd0607ca"
-      (reference "U12") (unit 1) (value "SC18IS602BIPW") (footprint "crosslink-nx-video-converter-footprints:SC18IS602B")
-    )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/db99cbfe-9181-4edc-aa87-d3312238ffac"
-      (reference "U13") (unit 1) (value "W25Q32JVSSIQ") (footprint "crosslink-nx-video-converter-footprints:SOIC-8_W5.3mm")
+      (reference "U10") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/985356de-bc9b-4c92-919e-82c6d61ede61"
-      (reference "U?") (unit 1) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 1) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/37c7d117-fb63-4ed9-9d45-ddd4e0a387c8"
-      (reference "U?") (unit 2) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 2) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/58473ccd-6717-4fe5-ac07-b7c746124830"
-      (reference "U?") (unit 3) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 3) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/67cfd2bc-e432-4604-878d-d39f3f636363"
-      (reference "U?") (unit 4) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 4) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/4528b76d-e71a-4baa-92fa-2e0f7705b62e"
-      (reference "U?") (unit 5) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 5) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/6653bc1d-fec1-4ae9-86ca-7abfa840537a"
-      (reference "U?") (unit 6) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 6) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f5c0328c-04ee-49fb-9a8a-68a06f62314d"
-      (reference "U?") (unit 7) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 7) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b1f2f870-71cc-42ec-8a6f-b5e39041a154"
-      (reference "U?") (unit 8) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 8) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/859ad26c-c262-4b67-826f-c65a83e2fe69"
-      (reference "U?") (unit 9) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 9) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/73693d4f-3572-471a-aa90-0dbdde9c7e84"
-      (reference "U?") (unit 10) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 10) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/12880191-8061-4527-a2e0-70be8cf198d9"
-      (reference "U?") (unit 11) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 11) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e682695c-51d8-4eea-8203-14d211578c22"
-      (reference "U?") (unit 12) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 12) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/c5c049e3-1195-49a0-8222-478abe94ed9f"
-      (reference "U?") (unit 13) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+      (reference "U11") (unit 13) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/50a05f20-c964-414c-9a1c-6a0bbb13e451"
+      (reference "U12") (unit 1) (value "MT41K128M16JT-125_K") (footprint "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/f621a21b-ead1-4856-ac12-7931e2e87a0b"
+      (reference "U12") (unit 2) (value "MT41K128M16JT-125_K") (footprint "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/273c8f7c-2cd7-4e7b-b970-d8ebcd24dd07"
+      (reference "U15") (unit 1) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8c7dfd31-adf0-46b8-9cce-d370a9644e00"
+      (reference "U15") (unit 2) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/01fcb52c-9c66-47b6-89a8-fa95e2b66db6"
+      (reference "U15") (unit 3) (value "GS2971A") (footprint "crosslink-nx-video-converter-footprints:BGA100_11x11mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/da505ca4-9d94-4208-8ac3-5ff068bd0e5f"
+      (reference "U16") (unit 1) (value "GS2988") (footprint "crosslink-nx-video-converter-footprints:QFN-16_EP_4x4_Pitch0.65mm")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/5706d7bb-99fe-4ce2-bc8d-5893fd0607ca"
+      (reference "U17") (unit 1) (value "SC18IS602BIPW") (footprint "crosslink-nx-video-converter-footprints:SC18IS602B")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/db99cbfe-9181-4edc-aa87-d3312238ffac"
+      (reference "U18") (unit 1) (value "W25Q32JVSSIQ") (footprint "crosslink-nx-video-converter-footprints:SOIC-8_W5.3mm")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/7c8018ac-54ca-4bcc-aecf-239790d5296f"
       (reference "Y1") (unit 1) (value "ABM7_27.000MH_D2Y_T") (footprint "crosslink-nx-video-converter-footprints:ABM7_OSC")
