@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "45_degree_only": true,
+          "min_clearance": 0.09999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -103,29 +103,37 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.09999999999999999,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.09999999999999999,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.09999999999999999,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_via_annular_width": 0.125,
+        "min_via_diameter": 0.45999999999999996,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
-        0.1
+        0.1,
+        0.125,
+        0.15,
+        0.18,
+        0.25
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.46,
+          "drill": 0.2
         }
       ],
       "zones_allow_external_fillets": false,
@@ -329,12 +337,12 @@
       "lib_symbol_issues": "warning",
       "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
-      "no_connect_connected": "ignore",
+      "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "ignore",
-      "pin_to_pin": "ignore",
-      "power_pin_not_driven": "ignore",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",
@@ -354,10 +362,10 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.08,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.18,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -365,7 +373,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
-        "via_diameter": 0.4,
+        "via_diameter": 0.46,
         "via_drill": 0.2,
         "wire_width": 6.0
       }
@@ -442,12 +450,12 @@
       "SDI"
     ],
     [
-      "921bbf25-96dd-4584-bc75-c5daf08b08e5",
-      "FPGA"
-    ],
-    [
       "e402139f-c5ee-4f0d-82a1-944c44608501",
       "Peripherals"
+    ],
+    [
+      "921bbf25-96dd-4584-bc75-c5daf08b08e5",
+      "FPGA"
     ],
     [
       "ecacf2b6-22be-4835-8168-c6f916010687",
