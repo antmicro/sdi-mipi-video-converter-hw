@@ -124,8 +124,8 @@
       ],
       "via_dimensions": [
         {
-          "diameter": 0.0,
-          "drill": 0.0
+          "diameter": 0.45,
+          "drill": 0.1
         }
       ],
       "zones_allow_external_fillets": false,
