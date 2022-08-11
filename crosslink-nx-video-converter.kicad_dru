@@ -19,3 +19,9 @@
 	(condition "A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3' || B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3")
 	(condition "A.insideArea('DDR3_CLEARNECE_OVERRIDE')")
 )
+
+(rule "CSI_inner"
+	(constraint track_width (opt 0.168mm))
+	(constraint diff_pair_gap (opt 0.307mm))
+	(layer inner)
+)

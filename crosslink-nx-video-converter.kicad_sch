@@ -3526,11 +3526,11 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/ae2973ed-2d6d-44cf-9f12-d2cf0fabd0c2"
       (reference "U10") (unit 1) (value "AP7330-W5-7") (footprint "crosslink-nx-video-converter-footprints:SOT-23-5")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/985356de-bc9b-4c92-919e-82c6d61ede61"
-      (reference "U11") (unit 1) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/6be772bc-9f7a-49ab-a787-691c4ea1f78a"
+      (reference "U11") (unit 1) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/37c7d117-fb63-4ed9-9d45-ddd4e0a387c8"
-      (reference "U11") (unit 2) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/db83a721-9207-4058-bded-b7edfc57ea31"
+      (reference "U11") (unit 2) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/58473ccd-6717-4fe5-ac07-b7c746124830"
       (reference "U11") (unit 3) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
@@ -3544,23 +3544,23 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/6653bc1d-fec1-4ae9-86ca-7abfa840537a"
       (reference "U11") (unit 6) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/f5c0328c-04ee-49fb-9a8a-68a06f62314d"
-      (reference "U11") (unit 7) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9147dad3-40a9-47d4-91db-f6fb82a868c3"
+      (reference "U11") (unit 7) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/b1f2f870-71cc-42ec-8a6f-b5e39041a154"
-      (reference "U11") (unit 8) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/83be1913-0bea-4510-a0a4-5a27d4a9912b"
+      (reference "U11") (unit 8) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/859ad26c-c262-4b67-826f-c65a83e2fe69"
-      (reference "U11") (unit 9) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a2680323-3c10-4837-9484-499c899e63e7"
+      (reference "U11") (unit 9) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/73693d4f-3572-471a-aa90-0dbdde9c7e84"
-      (reference "U11") (unit 10) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a8da1edd-4f8e-4620-948f-b9ccf03645af"
+      (reference "U11") (unit 10) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/12880191-8061-4527-a2e0-70be8cf198d9"
       (reference "U11") (unit 11) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
     )
-    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e682695c-51d8-4eea-8203-14d211578c22"
-      (reference "U11") (unit 12) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/569029c9-f446-4e7b-b8b8-eee16bfb0eca"
+      (reference "U11") (unit 12) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_16x16_14.0x14.0mm")
     )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/c5c049e3-1195-49a0-8222-478abe94ed9f"
       (reference "U11") (unit 13) (value "LIFCL-40-9BG256C") (footprint "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm")
