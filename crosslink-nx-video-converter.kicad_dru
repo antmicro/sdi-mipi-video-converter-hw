@@ -26,5 +26,12 @@
 (rule "CSI_inner"
 	(constraint track_width (opt 0.168mm))
 	(constraint diff_pair_gap (opt 0.307mm))
+	(condition "A.NetClass == '95Ohm-diff_CSI'")
+	(layer inner)
+)
+
+(rule "SDI_D_inner"
+	(constraint track_width (opt 0.168mm))
+	(condition "A.NetClass == '50Ohm-se_SDI_D'")
 	(layer inner)
 )
