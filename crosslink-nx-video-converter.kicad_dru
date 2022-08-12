@@ -2,23 +2,26 @@
 
 (rule "ddr3_inner"
 	(constraint track_width (opt 0.162mm))
-	(constraint clearance (min 0.6mm))
+	(constraint clearance (opt 0.6mm))
+#	(constraint clearance (min 0.1mm))
 	(constraint diff_pair_gap (opt 0.311mm))
-	(condition "(A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3') && (B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3')")
+	(condition "(A.NetClass == '50Ohm-se_DDR3' || A.NetClass == '90Ohm-diff_DDR3')")
 	(layer inner)
 )
 
 (rule "ddr3_outer"
-	(constraint clearance (min 0.6mm))
-	(condition "(A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3') && (B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3')")
+	(constraint track_width (opt 0.182mm))
+	(constraint diff_pair_gap (opt 0.196mm))
+	(constraint clearance (opt 0.6mm))
+	(condition "(A.NetClass == '50Ohm-se_DDR3' || A.NetClass == '90Ohm-diff_DDR3')")
 	(layer outer)
 )
 
-(rule "ddr3_courtyard_exceptions"
-	(constraint clearance (min 0.1mm))
-	(condition "A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3' || B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3")
-	(condition "A.insideArea('DDR3_CLEARNECE_OVERRIDE')")
-)
+#(rule "ddr3_courtyard_exceptions"
+#	(constraint clearance (min 0.1mm))
+#	(condition "A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3' || B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3")
+#	(condition "A.insideArea('DDR3_CLEARNECE_OVERRIDE')")
+#)
 
 (rule "CSI_inner"
 	(constraint track_width (opt 0.168mm))
