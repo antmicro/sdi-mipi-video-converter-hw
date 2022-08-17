@@ -2677,6 +2677,9 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/03d9ddde-ade0-4a69-b652-98e095c8eb52"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/044d0df6-1d62-4cb4-91a1-3a98b771f3af"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/0ac8cc47-5026-4f54-a7e6-77bcb0df2e5a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
@@ -2684,6 +2687,9 @@
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/1e2ef2f2-8818-45bb-b217-b4e58ac5e1cb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/1e3e4abd-a17d-40c3-9617-f5ec7f63d70b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/2089ee18-c2bd-4e34-b73c-55aa66bcaf6c"
@@ -3106,7 +3112,13 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/317c2ff4-b836-49d7-9a95-d6da2edfbcf7"
       (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/55615238-3901-4f89-9509-6e56c3d320a9"
+      (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
+    )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/633d3b1f-2388-405a-ace4-deb46c39b66e"
+      (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8a3aee97-1449-4549-b335-8d9682db1fcb"
       (reference "D?") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/038b3597-afa2-470a-83df-8c41201aa2bb"
@@ -3472,6 +3484,9 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/86b42282-673c-44f8-824d-cfb66e7627b8"
       (reference "R?") (unit 1) (value "R_0R_0603") (footprint "antmicro-footprints:0603-res")
     )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8725376d-30df-472a-97d8-942b250ae565"
+      (reference "R?") (unit 1) (value "R_200R_0603") (footprint "antmicro-footprints:0603-res")
+    )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/87596692-417a-44fe-a19f-48ab1680f6ce"
       (reference "R?") (unit 1) (value "R_10k_0603") (footprint "antmicro-footprints:0603-res")
     )
@@ -3480,6 +3495,9 @@
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/928e1558-8f0d-4dd5-836d-3966eb77d4a5"
       (reference "R?") (unit 1) (value "R_0R_0603") (footprint "antmicro-footprints:0603-res")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9c6d220a-86c8-4630-9d40-aa20968ddf2d"
+      (reference "R?") (unit 1) (value "R_200R_0603") (footprint "antmicro-footprints:0603-res")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a1d3d705-4b98-4db7-a44f-1b2149204c2d"
       (reference "R?") (unit 1) (value "R_10k_0603") (footprint "antmicro-footprints:0603-res")
@@ -3580,10 +3598,70 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/ec1f02c4-7c16-4dba-9808-ea269b08e649"
       (reference "TP22") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
     )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/0a3119b6-708d-4471-903d-b0f074f9804f"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/204ee994-6a0e-4d4a-889b-cf85e827281b"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/2c2ccbed-d71d-4c35-ae37-7468fa7400c7"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/322f9ab2-09af-47d8-ac06-cf088df6b616"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/3418670e-cfa6-4866-9e3b-7be74a7538bf"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/52babfdf-bdeb-43ef-83d1-777b06e1bb4f"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/5482be3a-4813-4ad5-96ad-9d347b838dc8"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/65ccf144-c57b-497a-88c0-de40db05a58e"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/6e80dc62-6e39-4734-ba1b-dda928503192"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a0c9b570-4169-42f2-8bfc-5c260ab8dc25"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/a2669591-ce44-4587-9594-88d4449f8619"
       (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
     )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a2e4e21c-6d46-4b8f-a188-418d5b874db8"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/a83aadc1-c8ba-4a50-982f-65878cdd79d6"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/bfa9ec32-2fc0-47a6-b22a-a08fe25c7b18"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/c5e14783-363c-49ed-ba7c-0509edf7f033"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/caee3201-78fb-4113-8735-c6e0bb7e5629"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/cc2c68a9-b8dd-4db4-a97c-c0f9a6193e79"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/cea987d7-f14e-4a7d-b4d4-3c1a432f47f0"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d84d03d4-021a-404a-aafd-4a32dd4b51be"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/e8743baa-7853-4fc7-9776-d9cfaadb009f"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/ed41183a-7c0d-4537-a046-73dd7d9a75d6"
+      (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
+    )
+    (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/fc1964ca-9718-4186-811a-9cf18de99efd"
       (reference "TP?") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/f07ed2c9-3ce9-40e7-8d08-e64473d81182"
