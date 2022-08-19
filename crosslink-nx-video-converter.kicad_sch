@@ -3313,11 +3313,11 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/3c064c99-8eb8-4479-99b1-3792dffbad42"
       (reference "R28") (unit 1) (value "R_0R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/8216c940-b07a-4566-9cf8-e30b97104ca6"
-      (reference "R29") (unit 1) (value "R_0R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/d9d5f838-0c3f-459b-8492-4d80661ade43"
+      (reference "R29") (unit 1) (value "R_0R_0603") (footprint "antmicro-footprints:0603-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/4d6c9215-4253-4e90-ba90-e7ac2c36865b"
-      (reference "R30") (unit 1) (value "R_0R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/b041a963-2e06-4130-95c1-63eb514a63a3"
+      (reference "R30") (unit 1) (value "R_0R_0603") (footprint "antmicro-footprints:0603-res")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/468cc386-abc8-499e-9eb0-3df1e7f5cea1"
       (reference "R31") (unit 1) (value "R_3k01_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
@@ -3337,8 +3337,8 @@
     (path "/818d488b-353f-4d93-a798-315de117413a/6c410063-2d9f-47b7-9dca-c4f34b359c42"
       (reference "R36") (unit 1) (value "R_15k_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/cc2621a1-3177-4959-b594-a3ea300bf613"
-      (reference "R37") (unit 1) (value "R_0R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
+    (path "/818d488b-353f-4d93-a798-315de117413a/3d5bfda9-6fb6-43d7-b703-b3a2b7d9b27b"
+      (reference "R37") (unit 1) (value "R_0R_0603") (footprint "antmicro-footprints:0603-res")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/fa211da7-fa6f-4af1-ae63-da64225c5d5e"
       (reference "R38") (unit 1) (value "R_0R_0402") (footprint "crosslink-nx-video-converter-footprints:0402-res")
