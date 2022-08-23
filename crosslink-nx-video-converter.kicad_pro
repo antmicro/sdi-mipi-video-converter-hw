@@ -522,7 +522,7 @@
           "/SDI/SDO_N",
           "/SDI/SDO_P"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(99, 255, 67)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.182,
         "via_diameter": 0.45,
