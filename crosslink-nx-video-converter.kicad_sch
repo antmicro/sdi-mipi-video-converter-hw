@@ -2788,6 +2788,12 @@
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/4b9263d6-8237-43dc-bf8f-721f43f0c04c"
       (reference "#PWR0260") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/6512004d-397a-4a96-9250-ebe71ac404e2"
+      (reference "#PWR0261") (unit 1) (value "+1V5") (footprint "crosslink-nx-video-converter-footprints:")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/3ee844dc-1c17-4718-a566-f6de49db2bff"
+      (reference "#PWR0262") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/6c3f8793-79c8-47a8-b766-b92c630c48a5"
       (reference "C1") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
@@ -3141,6 +3147,12 @@
     )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/059af5a7-6014-4d05-8e54-42a3a99ec1dd"
       (reference "C118") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/831256e8-9d47-4f7f-a77a-598bba2deea5"
+      (reference "C119") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
+    )
+    (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/809f767b-77e7-4f46-b77e-eb35aae39ae9"
+      (reference "C120") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/ecb70e54-eff1-4aec-b505-7e428edb79ec"
       (reference "D1") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
