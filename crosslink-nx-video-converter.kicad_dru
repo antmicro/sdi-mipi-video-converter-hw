@@ -10,7 +10,7 @@
 )
 
 (rule "ddr3_outer"
-	(constraint track_width (opt 0.182mm))
+	(constraint track_width (opt 0.200mm))
 	(constraint diff_pair_gap (opt 0.196mm))
 	(constraint clearance (opt 0.6mm))
 	(condition "(A.NetClass == '50Ohm-se_DDR3' || A.NetClass == '90Ohm-diff_DDR3')")
