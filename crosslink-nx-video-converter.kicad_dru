@@ -31,7 +31,7 @@
 )
 
 (rule "SDI_D_inner"
-	(constraint track_width (opt 0.168mm))
+	(constraint track_width (opt 0.13mm))
 	(condition "A.NetClass == '50Ohm-se_SDI_D'")
 	(layer inner)
 )
