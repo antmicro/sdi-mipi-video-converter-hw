@@ -2794,6 +2794,12 @@
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/3ee844dc-1c17-4718-a566-f6de49db2bff"
       (reference "#PWR0262") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/00f616f0-cd15-43de-8b59-8da9030437d3"
+      (reference "#PWR0263") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/70992fa1-1079-4aa6-8b13-d9cc8f093b99"
+      (reference "#PWR0264") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/6c3f8793-79c8-47a8-b766-b92c630c48a5"
       (reference "C1") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
@@ -3187,6 +3193,9 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/9c30c6da-66df-4ebb-b2c7-0ccaa75d3b35"
       (reference "D11") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/7c87fd2c-7e4b-4365-ba5a-fe5efde17431"
+      (reference "F1") (unit 1) (value "04671.25NR") (footprint "antmicro-footprints:0603-Fuse-Littelfuse-0467")
+    )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/038b3597-afa2-470a-83df-8c41201aa2bb"
       (reference "FB1") (unit 1) (value "BLM18PG121SN1D") (footprint "crosslink-nx-video-converter-footprints:0603-res")
     )
@@ -3225,6 +3234,9 @@
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/92e2d3b6-f24c-4034-bdc0-1ffcb9f4bdf4"
       (reference "J8") (unit 1) (value "SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:SM04B-SRSS-TB-LF-SN")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/5bcbc3aa-7c28-41c6-a6b8-ae11e094adf0"
+      (reference "J9") (unit 1) (value "SM06B-SRSS-TB(LF)(SN)") (footprint "antmicro-footprints:JST_SM06B-SRSS-TB(LF)(SN)")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/e9d0d42d-fbde-4aa1-ae04-0d2a148de628"
       (reference "L1") (unit 1) (value "XEL4030-332MEC") (footprint "crosslink-nx-video-converter-footprints:Coilcraft-XEL4030")
@@ -3613,8 +3625,8 @@
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4b9cbd64-c8dc-4d69-98be-578aca15cecc"
       (reference "S1") (unit 1) (value "B3U-3000PM") (footprint "crosslink-nx-video-converter-footprints:B3U-3000P")
     )
-    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/5b338d43-da15-4f91-b33c-669805b66a6f"
-      (reference "SW1") (unit 1) (value "SW_DIP_x06") (footprint "crosslink-nx-video-converter-footprints:SW_SPST_6_Slide_MCDHN-06F-T-V_P1.27mm")
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a5f2c3cd-85a9-4c8a-9f8c-0cf70c392093"
+      (reference "SW1") (unit 1) (value "CVS-02B") (footprint "antmicro-footprints:SW_DIP_SPSTx02_Slide_Copal_CVS-02xB_W5.9mm_P1mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/6d1aca8b-453b-422f-a745-eeda6af326b1"
       (reference "TP1") (unit 1) (value "TP_SMD_0_75MM") (footprint "crosslink-nx-video-converter-footprints:Testpoint_smd_0_75mm")

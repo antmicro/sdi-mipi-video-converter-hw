@@ -595,7 +595,7 @@
           "/SDI/SDI_OUT",
           "/SDI/SDI_OUT_F2"
         ],
-        "pcb_color": "rgb(48, 255, 253)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.45,
         "via_diameter": 0.45,
