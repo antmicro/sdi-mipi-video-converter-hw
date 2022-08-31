@@ -1,37 +1,69 @@
 (version 1)
 
 (rule "ddr3_inner"
-	(constraint track_width (opt 0.162mm))
+	(constraint track_width (max 0.162mm) (opt 0.162mm) (min 0.15mm))
 	(constraint clearance (opt 0.6mm))
-#	(constraint clearance (min 0.1mm))
-	(constraint diff_pair_gap (opt 0.311mm))
+	(constraint diff_pair_gap (min 0.31mm) (opt 0.311mm) (max 0.312mm))
+	(constraint diff_pair_uncoupled (max 2mm))
 	(condition "(A.NetClass == '50Ohm-se_DDR3' || A.NetClass == '90Ohm-diff_DDR3')")
 	(layer inner)
 )
 
 (rule "ddr3_outer"
-	(constraint track_width (opt 0.200mm))
+	(constraint track_width (max 0.200mm) (opt 0.200mm) (min 0.150mm))
 	(constraint diff_pair_gap (opt 0.196mm))
 	(constraint clearance (opt 0.6mm))
+	(constraint diff_pair_uncoupled (max 2mm))
 	(condition "(A.NetClass == '50Ohm-se_DDR3' || A.NetClass == '90Ohm-diff_DDR3')")
 	(layer outer)
 )
 
-#(rule "ddr3_courtyard_exceptions"
-#	(constraint clearance (min 0.1mm))
-#	(condition "A.NetClass == '56Ohm-se_DDR3' || A.NetClass == '100Ohm-diff_DDR3' || B.NetClass == '56Ohm-se_DDR3' || B.NetClass == '100Ohm-diff_DDR3")
-#	(condition "A.insideArea('DDR3_CLEARNECE_OVERRIDE')")
-#)
+(rule "CSI_outer"
+	(constraint track_width (max 0.150mm) (opt 0.150mm) (min 0.150mm))
+	(constraint diff_pair_gap (min 0.28mm) (opt 0.300mm) (max 0.320mm))
+	(condition "A.NetClass == '100Ohm-diff_CSI'")
+	(layer outer)
+)
 
 (rule "CSI_inner"
-	(constraint track_width (opt 0.168mm))
-	(constraint diff_pair_gap (opt 0.307mm))
-	(condition "A.NetClass == '95Ohm-diff_CSI'")
+	(constraint track_width (max 0.168mm) (opt 0.168mm) (min 0.150mm))
+	(constraint diff_pair_gap (min 0.28mm) (opt 0.300mm) (max 0.32mm))
+	(condition "A.NetClass == '100Ohm-diff_CSI'")
 	(layer inner)
 )
 
+(rule "SDI_D_outer"
+	(constraint track_width (min 0.15mm) (opt 0.2mm) (max 0.2mm))
+	(condition "A.NetClass == '50Ohm-se_SDI_D'")
+	(layer outer)
+)
+
+
 (rule "SDI_D_inner"
-	(constraint track_width (opt 0.13mm))
+	(constraint track_width (min 0.13mm) (opt 0.13mm) (max 0.13mm))
 	(condition "A.NetClass == '50Ohm-se_SDI_D'")
 	(layer inner)
+)
+
+(rule "SDI_D_length"
+	(constraint skew (max 1.5mm))
+	(condition "A.NetClass == '50Ohm-se_SDI_D'")
+)
+
+(rule "SDI"
+	(constraint track_width (min 0.45mm) (opt 0.45mm) (max 0.45mm))
+	(condition "A.NetClass == '75Ohm-se_SDI'")
+)
+
+(rule "SDI_diff"
+	(constraint track_width (min 0.4mm) (opt 0.4mm) (max 0.4mm))
+	(constraint diff_pair_gap (min 0.8mm) (opt 0.8mm) (max 0.8mm))
+	(condition "A.NetClass == '140Ohm-diff_SDI'")
+)
+
+(rule "SDO"
+	(constraint track_width (min 0.15mm) (opt 0.15mm) (max 0.15mm))
+	(constraint diff_pair_gap (min 0.29mm) (opt 0.3mm) (max 0.31mm))
+	(constraint diff_pair_uncoupled (max 2mm))
+	(condition "A.NetClass == '100Ohm-diff_SDO'")
 )
