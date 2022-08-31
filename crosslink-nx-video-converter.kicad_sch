@@ -3232,6 +3232,9 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/5bcbc3aa-7c28-41c6-a6b8-ae11e094adf0"
       (reference "J9") (unit 1) (value "SM06B-SRSS-TB(LF)(SN)") (footprint "antmicro-footprints:JST_SM06B-SRSS-TB(LF)(SN)")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/9a846964-c227-457a-8bd9-8e1a2116e1a4"
+      (reference "J10") (unit 1) (value "TSM-106-01-T-SH") (footprint "antmicro-footprints:SAMTEC_TSM-106-01-T-SH")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/e9d0d42d-fbde-4aa1-ae04-0d2a148de628"
       (reference "L1") (unit 1) (value "XEL4030-332MEC") (footprint "crosslink-nx-video-converter-footprints:Coilcraft-XEL4030")
     )
