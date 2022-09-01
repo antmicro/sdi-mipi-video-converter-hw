@@ -1,5 +1,13 @@
 (version 1)
 
+(rule "default_inner"
+	(constraint track_width (opt 0.1mm))
+	(constraint diff_pair_gap (opt 0.15mm))
+	(condition "(A.NetClass == 'Default')")
+	(layer inner)
+)
+
+
 (rule "ddr3_inner"
 	(constraint track_width (max 0.162mm) (opt 0.162mm) (min 0.15mm))
 	(constraint clearance (opt 0.6mm))

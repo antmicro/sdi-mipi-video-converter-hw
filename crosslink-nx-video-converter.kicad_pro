@@ -67,16 +67,21 @@
         "diff_pair_gap_out_of_range|149564800|93848148|30b047f5-19d4-433a-9dd1-8f3f7d7eb480|d05f04d7-c671-41ec-b1f9-eaa1f1a0a0f7",
         "diff_pair_gap_out_of_range|153209468|90265662|471be6bf-e506-4db4-ba2f-6a0a18c1c2e8|656fe8d4-935c-4ac9-8441-c7e15597d149",
         "diff_pair_uncoupled_length_too_long|119759400|71866500|a2234cea-11dd-46c5-8f40-bf0a416c94d6|ba956f1c-fe34-45a9-a357-8eea4c572973",
+        "diff_pair_uncoupled_length_too_long|120548878|76903943|63396464-8266-4cd7-8c68-3013c76fad56|0396cad4-78b6-47f6-8dfc-305dcb687761",
+        "diff_pair_uncoupled_length_too_long|122900000|76153519|a060efaf-3dc2-473d-a75d-0a2f085d9f64|3a6b32e6-ae40-47bd-a601-7fc8453f42db",
         "diff_pair_uncoupled_length_too_long|123100000|84150000|000d4e98-a035-43bd-90cb-74c90cfa85f8|020bf465-f771-4bdc-b48f-b9da20292f9e",
         "diff_pair_uncoupled_length_too_long|123976939|79200634|01e574f4-2e21-4327-8cc3-0ab07916c47e|0396cad4-78b6-47f6-8dfc-305dcb687761",
         "diff_pair_uncoupled_length_too_long|127269333|67145129|0513e266-121a-46a1-bc6c-72c088283bc7|0b8e7bb5-14d1-4802-9d1c-e884f39bbf76",
         "diff_pair_uncoupled_length_too_long|127269333|67145129|0513e266-121a-46a1-bc6c-72c088283bc7|0ca4e17d-654a-4d27-8553-fa0779c02029",
+        "diff_pair_uncoupled_length_too_long|127269333|67145129|0513e266-121a-46a1-bc6c-72c088283bc7|e4e4f303-184b-4f82-8e57-33ab402b6a2a",
         "diff_pair_uncoupled_length_too_long|132439500|83014522|046ee97d-39b9-4e69-b801-99866e8c2d10|08a7bdfe-7123-4a11-8281-6a94d6ec57e3",
         "diff_pair_uncoupled_length_too_long|132563500|81947231|b94555d8-75a1-4456-bd00-93f6b471cbf0|7d5dce05-8f16-45e7-96be-0ca75da666ac",
         "diff_pair_uncoupled_length_too_long|133015607|81562299|1e16ef91-fa1d-4d7c-be97-fcf1330e36ab|0c087850-c1b0-41f2-9209-1439d566211b",
+        "diff_pair_uncoupled_length_too_long|133867368|74109000|dae59a78-c744-4d55-9a56-3dd488c43b81|abd02b3a-6b42-403d-b613-123193ba4cd5",
         "diff_pair_uncoupled_length_too_long|90285000|94016800|34a75097-1d33-4e29-a4d4-ad27147a5f99|15458a43-8038-4a3e-bdaa-bdb2002b7629",
         "diff_pair_uncoupled_length_too_long|90999999|75299999|3330ede4-969a-4f95-9a6c-99e38637a876|4a759dd2-97b0-4dd1-ad21-fa1503c80a84",
-        "diff_pair_uncoupled_length_too_long|91550000|83088200|8acccffe-7d48-4b50-a2ce-7ad2e7e6c475|a8b96539-292f-4d5f-b028-bd0ed6ddda02"
+        "diff_pair_uncoupled_length_too_long|91550000|83088200|8acccffe-7d48-4b50-a2ce-7ad2e7e6c475|a8b96539-292f-4d5f-b028-bd0ed6ddda02",
+        "diff_pair_uncoupled_length_too_long|93723200|106725000|4a11096b-9708-4f4f-9243-dab2d8bf3da6|3b099266-6f4e-44fd-9796-4d02c1332a9d"
       ],
       "meta": {
         "version": 2
@@ -390,9 +395,9 @@
       {
         "bus_width": 12.0,
         "clearance": 0.1,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.182,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
