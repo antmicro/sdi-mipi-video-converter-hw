@@ -2821,6 +2821,9 @@
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/d4b92283-60fe-4e19-b500-9bbce6c59b9b"
       (reference "#PWR0271") (unit 1) (value "+3V3") (footprint "crosslink-nx-video-converter-footprints:")
     )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/efc81cd1-5fc7-45c1-9488-895e0481f048"
+      (reference "#PWR0272") (unit 1) (value "GND") (footprint "crosslink-nx-video-converter-footprints:")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/6c3f8793-79c8-47a8-b766-b92c630c48a5"
       (reference "C1") (unit 1) (value "C_100n_0402") (footprint "crosslink-nx-video-converter-footprints:0402-cap")
     )
@@ -3189,6 +3192,9 @@
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/909afb37-fd5a-41f5-a896-7dd2eafd22ec"
       (reference "C123") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:0402-cap")
+    )
+    (path "/e402139f-c5ee-4f0d-82a1-944c44608501/bd05e320-129d-41cd-a251-41505a366db5"
+      (reference "C124") (unit 1) (value "C_1u_0603") (footprint "crosslink-nx-video-converter-footprints:0603-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/ecb70e54-eff1-4aec-b505-7e428edb79ec"
       (reference "D1") (unit 1) (value "LTST-C190GKT") (footprint "crosslink-nx-video-converter-footprints:LED_0603")
