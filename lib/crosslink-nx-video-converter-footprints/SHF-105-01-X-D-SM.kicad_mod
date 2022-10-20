@@ -1,7 +1,7 @@
 (footprint "SHF-105-01-X-D-SM" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5FD885BD)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -6.6 -3.8) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left))
     (tstamp f63847b1-053a-4815-8cbc-96269ee360f0)

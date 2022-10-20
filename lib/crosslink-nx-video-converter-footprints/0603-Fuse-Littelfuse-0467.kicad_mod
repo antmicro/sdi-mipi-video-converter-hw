@@ -1,7 +1,7 @@
 (footprint "0603-Fuse-Littelfuse-0467" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 618B9E9E)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -2.050999 -1.8255) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
     (tstamp 3b367aaf-f5b9-45de-bf55-0ad0e0db66b0)
