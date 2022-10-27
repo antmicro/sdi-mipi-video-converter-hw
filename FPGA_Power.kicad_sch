@@ -4,6 +4,14 @@
 
   (paper "A3")
 
+  (title_block
+    (title "CrossLink-NX Video Converter")
+    (date "2022-10-27")
+    (rev "1.0.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
+  )
+
   (lib_symbols
     (symbol "crosslink-nx-video-converter:+1V8" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
