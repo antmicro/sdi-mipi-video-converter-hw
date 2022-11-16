@@ -6,9 +6,7 @@ Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
 ## Overview
 
-This repository contains open hardware design files for a video accessory using [Lattice Crosslink NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA.
-
-This boards allows to connect multiple video streams from SDI or CSI inputs, process it on-board and export with CSI output.
+This repository contains open hardware design files for a video accessory based on the [Lattice Crosslink NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA which allows to connect multiple video streams from SDI or CSI inputs, process it on-board and export with CSI output.
 
 ## Repository structure
 
@@ -22,17 +20,14 @@ The remaining files are stored in the following directories:
 
 * Crosslink NX FPGA
 * SDI input with loopback output
-* 3x4 CSI interfaces on two Antmicro's 50-pin FFC connectors 
-* DDR3 memory module with x16 interface
+* 3x4 CSI interfaces split 2/1 between two Antmicro 50-pin FFC connectors 
+* DDR3 RAM with x16 interface
 
-The board can be powered from:
+The board can be powered from either USB or Antmicro's 50-pin FFC connector.
 
-* USB connector
-* Antmicro's 50-pin FFC connector
-
-The Antmicro's 50-pin FFC connector is electrically compatible with several boards created by Antmicro, such as:
+Antmicro's 50-pin FFC connector is electrically compatible with several boards created by Antmicro, such as:
  
-* [Jetson Nano Baseboard](https://github.com/antmicro/jetson-nano-baseboard)
+* [Jetson Nano/TX2 NX/Xavier NX Baseboard](https://github.com/antmicro/jetson-nano-baseboard)
 * [OV9281 Dual Camera Board](https://github.com/antmicro/ov9281-camera-board)
 * [HDMI-MIPI bridge](https://github.com/antmicro/hdmi-mipi-bridge)
 
