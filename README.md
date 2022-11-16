@@ -1,4 +1,4 @@
-# Antmicro's open source Crosslink NX Video Accessory
+# Antmicro's open source CrossLink-NX Video Accessory
 
 Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
