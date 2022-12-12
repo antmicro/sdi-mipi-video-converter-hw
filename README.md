@@ -1,8 +1,8 @@
-# Antmicro's open source CrossLink-NX Video Accessory
+# SDI-MIPI Cross Converter
 
 Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
-![Crosslink NX Video Accessory](/img/crosslink-nx-video-accessory.png)
+![SDI-MIPI Cross Converter](/img/sdi-mipi-cross-converter.png)
 
 ## Overview
 
