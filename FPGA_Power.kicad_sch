@@ -2943,7 +2943,7 @@
     (uuid c5c049e3-1195-49a0-8222-478abe94ed9f)
     (property "Reference" "U11" (id 0) (at 270.51 109.22 0))
     (property "Value" "LIFCL-40-9BG256C" (id 1) (at 270.51 111.76 0))
-    (property "Footprint" "sdi-mipi-cross-converter-footprints:CrosslinkNX-BGA-256_16x16_14.0x14.0mm" (id 2) (at 272.415 282.575 0)
+    (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA-256_16x16_14.0x14.0mm" (id 2) (at 272.415 282.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (id 3) (at 266.065 283.845 0)
