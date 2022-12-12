@@ -10,7 +10,7 @@
         (comment 1 "www.antmicro.com") 
         (comment 2 "Antmicro Ltd.")) 
     (lib_symbols 
-        (symbol "crosslink-nx-video-converter:C_100n_0201" 
+        (symbol "sdi-mipi-cross-converter:C_100n_0201" 
             (pin_names 
                 (offset 0)) 
             (in_bom yes) 
@@ -28,7 +28,7 @@
                 (effects 
                     (font 
                         (size 1.524 1.524)) hide)) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
                 (id 2) 
                 (at 5.08 5.08 0) 
                 (effects 
@@ -104,7 +104,7 @@
                         (effects 
                             (font 
                                 (size 0 0))))))) 
-        (symbol "crosslink-nx-video-converter:+1V5" 
+        (symbol "sdi-mipi-cross-converter:+1V5" 
             (power) 
             (pin_names 
                 (offset 0)) 
@@ -177,7 +177,7 @@
                         (effects 
                             (font 
                                 (size 1.27 1.27))))))) 
-        (symbol "crosslink-nx-video-converter:4x51R_0402_array" 
+        (symbol "sdi-mipi-cross-converter:4x51R_0402_array" 
             (pin_names 
                 (offset 1.016)) 
             (in_bom yes) 
@@ -195,7 +195,7 @@
                 (effects 
                     (font 
                         (size 1.524 1.524)))) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
                 (id 2) 
                 (at -5.08 19.05 0) 
                 (effects 
@@ -402,7 +402,7 @@
                         (effects 
                             (font 
                                 (size 1.27 1.27))))))) 
-        (symbol "crosslink-nx-video-converter:C_100n_0402" 
+        (symbol "sdi-mipi-cross-converter:C_100n_0402" 
             (pin_names 
                 (offset 0)) 
             (in_bom yes) 
@@ -420,7 +420,7 @@
                 (effects 
                     (font 
                         (size 1.524 1.524)) hide)) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
                 (id 2) 
                 (at 5.08 5.08 0) 
                 (effects 
@@ -496,7 +496,7 @@
                         (effects 
                             (font 
                                 (size 0 0))))))) 
-        (symbol "crosslink-nx-video-converter:GND" 
+        (symbol "sdi-mipi-cross-converter:GND" 
             (power) 
             (pin_names 
                 (offset 0)) 
@@ -553,7 +553,7 @@
                         (effects 
                             (font 
                                 (size 1.27 1.27))))))) 
-        (symbol "crosslink-nx-video-converter:LIFCL-40-9BG256C" 
+        (symbol "sdi-mipi-cross-converter:LIFCL-40-9BG256C" 
             (in_bom yes) 
             (on_board yes) 
             (property "Reference" "U8" 
@@ -568,7 +568,7 @@
                 (effects 
                     (font 
                         (size 1.27 1.27)))) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA-256_16x16_14.0x14.0mm" 
                 (id 2) 
                 (at 1.905 -142.875 0) 
                 (effects 
@@ -3617,7 +3617,7 @@
                         (color 0 0 0 0)) 
                     (fill 
                         (type background))))) 
-        (symbol "crosslink-nx-video-converter:LIFCL-40-9BG256C_1" 
+        (symbol "sdi-mipi-cross-converter:LIFCL-40-9BG256C_1" 
             (in_bom yes) 
             (on_board yes) 
             (property "Reference" "U8" 
@@ -3632,7 +3632,7 @@
                 (effects 
                     (font 
                         (size 1.27 1.27)))) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:BGA-256_16x16_14.0x14.0mm" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA-256_16x16_14.0x14.0mm" 
                 (id 2) 
                 (at 1.905 -142.875 0) 
                 (effects 
@@ -6681,7 +6681,7 @@
                         (color 0 0 0 0)) 
                     (fill 
                         (type background))))) 
-        (symbol "crosslink-nx-video-converter:MT41K128M16JT-125_K" 
+        (symbol "sdi-mipi-cross-converter:MT41K128M16JT-125_K" 
             (pin_names 
                 (offset 1.016)) 
             (in_bom yes) 
@@ -6700,7 +6700,7 @@
                     (font 
                         (size 1.27 1.27)) 
                     (justify left bottom))) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA80P96C6X16_800X1400X110" 
                 (id 2) 
                 (at 66.04 -40.64 0) 
                 (effects 
@@ -7800,7 +7800,7 @@
                         (effects 
                             (font 
                                 (size 1.016 1.016))))))) 
-        (symbol "crosslink-nx-video-converter:R_100R_0201" 
+        (symbol "sdi-mipi-cross-converter:R_100R_0201" 
             (pin_names 
                 (offset 0)) 
             (in_bom yes) 
@@ -7818,7 +7818,7 @@
                 (effects 
                     (font 
                         (size 1.524 1.524)) hide)) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
                 (id 2) 
                 (at -11.43 -15.24 0) 
                 (effects 
@@ -7883,7 +7883,7 @@
                         (effects 
                             (font 
                                 (size 0 0))))))) 
-        (symbol "crosslink-nx-video-converter:R_240R_1%_0402" 
+        (symbol "sdi-mipi-cross-converter:R_240R_1%_0402" 
             (pin_names 
                 (offset 0)) 
             (in_bom yes) 
@@ -7901,7 +7901,7 @@
                 (effects 
                     (font 
                         (size 1.524 1.524)) hide)) 
-            (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+            (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-res" 
                 (id 2) 
                 (at 5.08 5.08 0) 
                 (effects 
@@ -12436,7 +12436,7 @@
                     (size 1.27 1.27)) 
                 (justify left) hide))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 123.19 68.58 0) 
         (mirror y) 
         (unit 1) 
@@ -12468,7 +12468,7 @@
         (pin "1" 
             (uuid 8e668a4a-03b9-4bff-8de9-72dca60c69f0))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 307.34 63.5 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12499,7 +12499,7 @@
         (pin "1" 
             (uuid 85ac9358-af02-40e3-bb29-2015e97197e8))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 257.81 257.81 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12518,7 +12518,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 252.73 238.76 0) 
             (effects 
@@ -12563,7 +12563,7 @@
         (pin "8" 
             (uuid c4475d8f-dd1d-4af2-8ae9-eeec359d63dd))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 125.73 172.72 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12593,7 +12593,7 @@
         (pin "1" 
             (uuid 60772e1a-241e-4042-a606-bfc9745ceb5b))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 295.91 63.5 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12624,7 +12624,7 @@
         (pin "1" 
             (uuid 689c457a-2dd3-46d3-9ff0-9db6aff6efb7))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 313.69 116.84 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12655,7 +12655,7 @@
         (pin "1" 
             (uuid 7d2230f9-4a84-409c-b4ea-32e48de757bc))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 214.63 257.81 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12674,7 +12674,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 209.55 238.76 0) 
             (effects 
@@ -12719,7 +12719,7 @@
         (pin "8" 
             (uuid 543f4092-8064-4d81-a7f8-2ea24ededc39))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 214.63 236.22 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12738,7 +12738,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 209.55 217.17 0) 
             (effects 
@@ -12783,7 +12783,7 @@
         (pin "8" 
             (uuid 48463b76-2531-49d5-9658-5b300a79ed3f))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 328.93 87.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -12814,7 +12814,7 @@
         (pin "1" 
             (uuid 64950c9d-0f64-4cf2-af16-6f5c5f3efeaa))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:LIFCL-40-9BG256C") 
+        (lib_id "sdi-mipi-cross-converter:LIFCL-40-9BG256C") 
         (at 72.39 213.36 0) 
         (unit 5) 
         (in_bom yes) 
@@ -12827,7 +12827,7 @@
         (property "Value" "LIFCL-40-9BG256C" 
             (id 1) 
             (at 72.39 168.91 0)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:CrosslinkNX-BGA-256_16x16_14.0x14.0mm" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:CrosslinkNX-BGA-256_16x16_14.0x14.0mm" 
             (id 2) 
             (at 74.295 356.235 0) 
             (effects 
@@ -13364,7 +13364,7 @@
         (pin "T16" 
             (uuid d183fe17-5c7b-4d34-a903-56a4c721c290))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 328.93 116.84 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13395,7 +13395,7 @@
         (pin "1" 
             (uuid 48edd259-3232-4343-9a9a-5044118291d3))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 214.63 214.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13414,7 +13414,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 209.55 195.58 0) 
             (effects 
@@ -13459,7 +13459,7 @@
         (pin "8" 
             (uuid 1b7fae4e-fa7a-4870-a598-37e4627fd2cb))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:R_100R_0201") 
+        (lib_id "sdi-mipi-cross-converter:R_100R_0201") 
         (at 190.5 83.82 90) 
         (unit 1) 
         (in_bom yes) 
@@ -13479,7 +13479,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 205.74 95.25 0) 
             (effects 
@@ -13518,7 +13518,7 @@
         (pin "2" 
             (uuid 2045ab13-a735-4e08-a8bb-692ab98efcf9))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 134.62 63.5 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13538,7 +13538,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 139.7 58.42 0) 
             (effects 
@@ -13577,7 +13577,7 @@
         (pin "2" 
             (uuid fa0655eb-e3f0-48c8-80b8-51903880551a))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 295.91 87.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13608,7 +13608,7 @@
         (pin "1" 
             (uuid 6c31de47-e19d-471b-b16f-041b107c1914))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 313.69 99.06 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13638,7 +13638,7 @@
         (pin "1" 
             (uuid 403f4c87-020b-47a3-942a-d8e07a35e0c0))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 295.91 59.69 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13658,7 +13658,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 300.99 54.61 0) 
             (effects 
@@ -13697,7 +13697,7 @@
         (pin "2" 
             (uuid f51e3bbc-0255-4d1f-99b4-b1c7a714cbdc))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 140.97 181.61 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13717,7 +13717,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 146.05 176.53 0) 
             (effects 
@@ -13756,7 +13756,7 @@
         (pin "2" 
             (uuid 449f438a-aacd-4862-8af2-e37f894b76e9))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:MT41K128M16JT-125_K") 
+        (lib_id "sdi-mipi-cross-converter:MT41K128M16JT-125_K") 
         (at 219.71 52.07 0) 
         (unit 1) 
         (in_bom yes) 
@@ -13769,7 +13769,7 @@
         (property "Value" "MT41K128M16JT-125_K" 
             (id 1) 
             (at 234.95 50.8 0)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA80P96C6X16_800X1400X110" 
             (id 2) 
             (at 285.75 92.71 0) 
             (effects 
@@ -13988,7 +13988,7 @@
         (pin "T9" 
             (uuid 7775696e-89b8-4171-b2bb-b8b517da1f68))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 318.77 63.5 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14019,7 +14019,7 @@
         (pin "1" 
             (uuid 970ee9e7-579e-4839-a7b9-851b6e7eb924))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 134.62 53.34 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14038,7 +14038,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 139.7 48.26 0) 
             (effects 
@@ -14077,7 +14077,7 @@
         (pin "2" 
             (uuid 987178d8-11b9-4fda-9809-d8fd957deef6))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 256.54 121.92 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14108,7 +14108,7 @@
         (pin "1" 
             (uuid 817af68c-891e-4d11-8be9-c9a150d0f672))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 388.62 83.82 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14139,7 +14139,7 @@
         (pin "1" 
             (uuid ea5898f1-cb3a-4c19-85af-ac91f2d36647))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 313.69 113.03 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14159,7 +14159,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 318.77 107.95 0) 
             (effects 
@@ -14198,7 +14198,7 @@
         (pin "2" 
             (uuid 04575ac4-f2f1-44a9-829b-1a04c8361d7c))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 313.69 102.87 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14218,7 +14218,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 318.77 97.79 0) 
             (effects 
@@ -14257,7 +14257,7 @@
         (pin "2" 
             (uuid e759c98a-67b8-4403-b3bd-48136c728457))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 123.19 64.77 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14277,7 +14277,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 128.27 59.69 0) 
             (effects 
@@ -14316,7 +14316,7 @@
         (pin "2" 
             (uuid bbef07eb-f244-4be9-a0da-553848c46d05))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 140.97 185.42 0) 
         (mirror y) 
         (unit 1) 
@@ -14348,7 +14348,7 @@
         (pin "1" 
             (uuid bdae1b5a-a349-4a87-83dd-19519a6088e7))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 307.34 83.82 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14368,7 +14368,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 312.42 78.74 0) 
             (effects 
@@ -14407,7 +14407,7 @@
         (pin "2" 
             (uuid a8a9868e-737d-4c9a-8937-97a75108b368))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 328.93 113.03 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14427,7 +14427,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 334.01 107.95 0) 
             (effects 
@@ -14466,7 +14466,7 @@
         (pin "2" 
             (uuid 5b33a1c4-c12f-4d8d-9df8-0e8de23631b1))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 125.73 181.61 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14486,7 +14486,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 130.81 176.53 0) 
             (effects 
@@ -14525,7 +14525,7 @@
         (pin "2" 
             (uuid b0a5349e-3522-4373-9302-1ac79f370006))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 118.11 181.61 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14545,7 +14545,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 123.19 176.53 0) 
             (effects 
@@ -14584,7 +14584,7 @@
         (pin "2" 
             (uuid f311de34-c794-4175-ada9-2bd8b9c44ac8))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 140.97 167.64 0) 
         (unit 1) 
         (in_bom yes) 
@@ -14614,7 +14614,7 @@
         (pin "1" 
             (uuid 4f306b8c-a683-4d80-9a2b-4312d351f218))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:LIFCL-40-9BG256C") 
+        (lib_id "sdi-mipi-cross-converter:LIFCL-40-9BG256C") 
         (at 73.66 93.98 0) 
         (unit 4) 
         (in_bom yes) 
@@ -14627,7 +14627,7 @@
         (property "Value" "LIFCL-40-9BG256C" 
             (id 1) 
             (at 72.39 50.8 0)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:CrosslinkNX-BGA-256_16x16_14.0x14.0mm" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:CrosslinkNX-BGA-256_16x16_14.0x14.0mm" 
             (id 2) 
             (at 75.565 236.855 0) 
             (effects 
@@ -15164,7 +15164,7 @@
         (pin "T16" 
             (uuid 77d6fb8a-ea4b-49bc-8a95-8afb00bec2b5))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0201") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0201") 
         (at 140.97 171.45 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15184,7 +15184,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0201-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0201-res" 
             (id 2) 
             (at 146.05 166.37 0) 
             (effects 
@@ -15223,7 +15223,7 @@
         (pin "2" 
             (uuid f4514b17-5db5-49e5-8db1-bdca232961d3))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 134.62 49.53 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15253,7 +15253,7 @@
         (pin "1" 
             (uuid 017bca8b-a858-422a-89c2-f36a72091577))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 307.34 59.69 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15273,7 +15273,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 312.42 54.61 0) 
             (effects 
@@ -15312,7 +15312,7 @@
         (pin "2" 
             (uuid 214153d9-dda1-47f3-bf9c-5aee24960b71))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 328.93 99.06 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15342,7 +15342,7 @@
         (pin "1" 
             (uuid ce949e4d-32ba-467c-8d05-aefa5e186591))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 118.11 185.42 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15373,7 +15373,7 @@
         (pin "1" 
             (uuid 49c03fd6-f0b4-48c4-bdc5-815d856ad47e))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 328.93 83.82 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15393,7 +15393,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 334.01 78.74 0) 
             (effects 
@@ -15432,7 +15432,7 @@
         (pin "2" 
             (uuid 4e19a913-b792-4ba1-8fbe-e11849e9ad05))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 388.62 107.95 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15463,7 +15463,7 @@
         (pin "1" 
             (uuid 6748fa47-7b43-4a6b-9762-a37de06a5b98))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 97.79 140.97 0) 
         (mirror y) 
         (unit 1) 
@@ -15494,7 +15494,7 @@
         (pin "1" 
             (uuid d6ff33f9-84a5-4886-b6d7-2751442adfff))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:R_240R_1%_0402") 
+        (lib_id "sdi-mipi-cross-converter:R_240R_1%_0402") 
         (at 256.54 118.11 90) 
         (unit 1) 
         (in_bom yes) 
@@ -15514,7 +15514,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-res" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-res" 
             (id 2) 
             (at 251.46 113.03 0) 
             (effects 
@@ -15553,7 +15553,7 @@
         (pin "2" 
             (uuid bd8145ba-bb80-4bcd-a01c-1345ade56ce6))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 328.93 59.69 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15573,7 +15573,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 334.01 54.61 0) 
             (effects 
@@ -15612,7 +15612,7 @@
         (pin "2" 
             (uuid e38553ab-9261-4b61-a4ef-88f610840325))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 307.34 87.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15643,7 +15643,7 @@
         (pin "1" 
             (uuid 66c8af5b-c514-420b-9c3b-1f48b34a22d7))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 125.73 185.42 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15674,7 +15674,7 @@
         (pin "1" 
             (uuid 06256ad2-0ed8-4ae7-a130-013bd6897d3c))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 257.81 214.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15693,7 +15693,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 252.73 195.58 0) 
             (effects 
@@ -15738,7 +15738,7 @@
         (pin "8" 
             (uuid 390acc5a-2404-4e2f-9952-1e4b42585008))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 328.93 102.87 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15758,7 +15758,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 334.01 97.79 0) 
             (effects 
@@ -15797,7 +15797,7 @@
         (pin "2" 
             (uuid 80cf892a-a06a-4d87-9399-f86795b3299c))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 318.77 59.69 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15817,7 +15817,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 323.85 54.61 0) 
             (effects 
@@ -15856,7 +15856,7 @@
         (pin "2" 
             (uuid 22d673be-e7e4-4624-9b2b-ad9d3a8f175a))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 318.77 83.82 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15876,7 +15876,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 323.85 78.74 0) 
             (effects 
@@ -15915,7 +15915,7 @@
         (pin "2" 
             (uuid f06f5d1a-5fe7-42f5-bdee-79ee4f92d442))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:4x51R_0402_array") 
+        (lib_id "sdi-mipi-cross-converter:4x51R_0402_array") 
         (at 257.81 236.22 0) 
         (unit 1) 
         (in_bom yes) 
@@ -15934,7 +15934,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:R_Array_4x0402" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:R_Array_4x0402" 
             (id 2) 
             (at 252.73 217.17 0) 
             (effects 
@@ -15979,7 +15979,7 @@
         (pin "8" 
             (uuid 3d276d6f-b562-4066-969b-d05609e8a0a3))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 328.93 63.5 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16010,7 +16010,7 @@
         (pin "1" 
             (uuid c7978f53-e2da-4870-bd7d-1f3684807989))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:C_100n_0402") 
+        (lib_id "sdi-mipi-cross-converter:C_100n_0402") 
         (at 295.91 83.82 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16030,7 +16030,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:0402-cap" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:0402-cap" 
             (id 2) 
             (at 300.99 78.74 0) 
             (effects 
@@ -16069,7 +16069,7 @@
         (pin "2" 
             (uuid d33bfa07-ce9b-497c-ab8c-a79180180f8f))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 318.77 87.63 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16100,7 +16100,7 @@
         (pin "1" 
             (uuid ba19f023-0931-4a3c-9628-36230fba98c6))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 97.79 257.81 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16130,7 +16130,7 @@
         (pin "1" 
             (uuid 7cfe198b-77e9-4efd-b6b6-5001e39ec35e))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 295.91 77.47 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16160,7 +16160,7 @@
         (pin "1" 
             (uuid 35460147-783a-4a7f-b6e0-97dea2314df7))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:MT41K128M16JT-125_K") 
+        (lib_id "sdi-mipi-cross-converter:MT41K128M16JT-125_K") 
         (at 346.71 52.07 0) 
         (unit 2) 
         (in_bom yes) 
@@ -16173,7 +16173,7 @@
         (property "Value" "MT41K128M16JT-125_K" 
             (id 1) 
             (at 361.95 50.8 0)) 
-        (property "Footprint" "crosslink-nx-video-converter-footprints:BGA80P96C6X16_800X1400X110" 
+        (property "Footprint" "sdi-mipi-cross-converter-footprints:BGA80P96C6X16_800X1400X110" 
             (id 2) 
             (at 412.75 92.71 0) 
             (effects 
@@ -16392,7 +16392,7 @@
         (pin "T9" 
             (uuid 18ce1653-d052-4534-bc6a-fc2ca0573f07))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:GND") 
+        (lib_id "sdi-mipi-cross-converter:GND") 
         (at 134.62 67.31 0) 
         (mirror y) 
         (unit 1) 
@@ -16424,7 +16424,7 @@
         (pin "1" 
             (uuid 45c0b840-0875-4bfe-90cc-36d64ae9d75c))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 295.91 53.34 0) 
         (unit 1) 
         (in_bom yes) 
@@ -16454,7 +16454,7 @@
         (pin "1" 
             (uuid 39d291f1-3773-4337-8bfa-914a4fc32f0e))) 
     (symbol 
-        (lib_id "crosslink-nx-video-converter:+1V5") 
+        (lib_id "sdi-mipi-cross-converter:+1V5") 
         (at 123.19 54.61 0) 
         (unit 1) 
         (in_bom yes) 
