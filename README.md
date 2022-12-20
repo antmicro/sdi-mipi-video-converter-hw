@@ -1,8 +1,8 @@
-# SDI-MIPI Cross Converter
+# SDI-MIPI Video Converter
 
 Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
 
-![SDI-MIPI Cross Converter](/img/sdi-mipi-cross-converter.png)
+![SDI-MIPI Video Converter](/img/sdi-mipi-video-converter.png)
 
 ## Overview
 
