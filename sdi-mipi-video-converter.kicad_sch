@@ -6,8 +6,8 @@
 
   (title_block
     (title "SDI-MIPI Video Converter")
-    (date "2022-12-20")
-    (rev "1.1.0")
+    (date "2023-01-03")
+    (rev "1.1.1")
     (comment 1 "www.antmicro.com")
     (comment 2 "Antmicro Ltd.")
   )
@@ -17317,7 +17317,7 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/8fc19929-84e2-415f-8b06-24397c097c2d"
       (reference "TP47") (unit 1) (value "TP_SMD_0_75MM") (footprint "sdi-mipi-video-converter-footprints:Testpoint_smd_0_75mm")
     )
-    (path "/818d488b-353f-4d93-a798-315de117413a/9ceb2353-c6bb-47b2-bc1f-df907edd8d73"
+    (path "/818d488b-353f-4d93-a798-315de117413a/977cf175-343a-42e0-ac95-36c8b1c56144"
       (reference "U1") (unit 1) (value "MP20073") (footprint "sdi-mipi-video-converter-footprints:MSOP-8-1EP_W3mm")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/f07ed2c9-3ce9-40e7-8d08-e64473d81182"

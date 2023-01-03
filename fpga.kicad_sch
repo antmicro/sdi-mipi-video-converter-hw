@@ -6,8 +6,8 @@
 
   (title_block
     (title "SDI-MIPI Video Converter")
-    (date "2022-12-20")
-    (rev "1.1.0")
+    (date "2023-01-03")
+    (rev "1.1.1")
     (comment 1 "www.antmicro.com")
     (comment 2 "Antmicro Ltd.")
   )
