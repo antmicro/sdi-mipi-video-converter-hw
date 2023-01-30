@@ -16261,6 +16261,18 @@
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/efc81cd1-5fc7-45c1-9488-895e0481f048"
       (reference "#PWR0272") (unit 1) (value "GND") (footprint "")
     )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/224d255d-d79e-45b8-b73a-5d672b4b3042"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/a522ff41-262e-458a-b04e-15e5d5bcc0bd"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/cfaa8b6e-6473-4917-8399-d6eb02afea11"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/dd6b6ab8-fd91-41cb-8450-ae1f71bfab54"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/818d488b-353f-4d93-a798-315de117413a/6c3f8793-79c8-47a8-b766-b92c630c48a5"
       (reference "C1") (unit 1) (value "C_100n_0402") (footprint "sdi-mipi-video-converter-footprints:0402-cap")
     )
@@ -16632,6 +16644,9 @@
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/bd05e320-129d-41cd-a251-41505a366db5"
       (reference "C124") (unit 1) (value "C_1u_0603") (footprint "sdi-mipi-video-converter-footprints:0603-cap")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/522f3457-5e28-431b-b5e5-aeb3ef1f32f6"
+      (reference "C?") (unit 1) (value "C_100n_0402") (footprint "sdi-mipi-video-converter-footprints:0402-cap")
     )
     (path "/818d488b-353f-4d93-a798-315de117413a/ecb70e54-eff1-4aec-b505-7e428edb79ec"
       (reference "D1") (unit 1) (value "LTST-C190GKT") (footprint "sdi-mipi-video-converter-footprints:LED_0603")
@@ -17170,6 +17185,12 @@
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/dc144329-47ff-48dc-96af-a3c0f94c2b9b"
       (reference "R140") (unit 1) (value "R_1k_0402") (footprint "sdi-mipi-video-converter-footprints:0402-res")
     )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/7fc1d67a-44bd-45cd-8c04-3644d059d855"
+      (reference "R?") (unit 1) (value "R_0R_0402") (footprint "sdi-mipi-video-converter-footprints:0402-res")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/e067b114-c0db-4070-8cd5-144d16db7b13"
+      (reference "R?") (unit 1) (value "R_0R_0402") (footprint "sdi-mipi-video-converter-footprints:0402-res")
+    )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/4b9cbd64-c8dc-4d69-98be-578aca15cecc"
       (reference "S1") (unit 1) (value "B3U-3000PM") (footprint "sdi-mipi-video-converter-footprints:B3U-3000P")
     )
@@ -17445,6 +17466,9 @@
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/acff5cb4-b2ab-4a12-b74e-39f894715252"
       (reference "U20") (unit 1) (value "FT230XQ-R") (footprint "sdi-mipi-video-converter-footprints:WQFN-16-1EP_4x4mm")
+    )
+    (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/554f69cc-852c-4353-ad07-4f29f3d90638"
+      (reference "U?") (unit 1) (value "TMUX1574RSVR") (footprint "antmicro-footprints:TMUX1574RSVR")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/7c8018ac-54ca-4bcc-aecf-239790d5296f"
       (reference "Y1") (unit 1) (value "ABM7_27.000MH_D2Y_T") (footprint "sdi-mipi-video-converter-footprints:ABM7_OSC")
