@@ -32,6 +32,10 @@ Antmicro's 50-pin FFC connector is electrically compatible with several boards c
 * [OV9281 Dual Camera Board](https://github.com/antmicro/ov9281-camera-board)
 * [HDMI-MIPI bridge](https://github.com/antmicro/hdmi-mipi-bridge)
 
+## Board diagram
+
+![Diagram](doc/sdi-mipi-video-converter-diagram.png)
+
 ## License
 
 [Apache-2.0](LICENSE)
