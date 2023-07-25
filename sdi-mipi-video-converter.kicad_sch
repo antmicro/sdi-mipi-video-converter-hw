@@ -17447,7 +17447,7 @@
       (reference "U20") (unit 1) (value "FT230X_QFN") (footprint "sdi-mipi-video-converter-footprints:QFN-16_1EP_4x4mm_P0.65mm")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/0d93b659-2dc8-46da-8744-8177e0970fb8"
-      (reference "U21") (unit 1) (value "TMUX1574RSVR") (footprint "sdi-mipi-video-converter-footprints:TMUX1574RSVR")
+      (reference "U21") (unit 1) (value "TMUX1574RSVR") (footprint "sdi-mipi-video-converter-footprints:UQFN-16-1.8x2.6mm_P0.4mm_Texas_RSV0016A")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/7c8018ac-54ca-4bcc-aecf-239790d5296f"
       (reference "Y1") (unit 1) (value "Oscillator_SMD_27MHz_ABM7") (footprint "sdi-mipi-video-converter-footprints:Oscillator_SMD_Abracon_ABM7-2Pin_6x3.5mm")
