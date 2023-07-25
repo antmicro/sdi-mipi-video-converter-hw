@@ -63,7 +63,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_100n_0201" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -130,7 +129,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_10u_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -197,7 +195,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:FB_120Z_2A_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (id 0) (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -275,7 +272,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -314,7 +310,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 59.69 12.7 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))

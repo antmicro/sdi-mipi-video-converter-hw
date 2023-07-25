@@ -59,7 +59,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:+3.3V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -106,7 +105,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:+5V" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -157,7 +155,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_100n_0201" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -224,7 +221,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -291,7 +287,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_1u_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -358,7 +353,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:C_47p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -425,7 +419,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:Conn_FFC_WE_68715014522_ONE-SIDE" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 19.05 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -869,7 +862,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:DIO7553ST6" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 31.75 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -932,7 +924,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:FT230X_QFN" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 39.37 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1033,7 +1024,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:F_1.25A_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "F" (id 0) (at 24.13 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1090,7 +1080,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1129,7 +1118,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LED_G_0603_LTST-C190GKT" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1208,7 +1196,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 59.69 12.7 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2376,7 +2363,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C_1" (in_bom yes) (on_board yes)
       (property "Reference" "U8" (id 0) (at -1.27 45.72 0)
         (effects (font (size 1.27 1.27)))
@@ -3564,7 +3550,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C_2" (in_bom yes) (on_board yes)
       (property "Reference" "U8" (id 0) (at -1.27 45.72 0)
         (effects (font (size 1.27 1.27)))
@@ -4752,7 +4737,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C_3" (in_bom yes) (on_board yes)
       (property "Reference" "U8" (id 0) (at -1.27 45.72 0)
         (effects (font (size 1.27 1.27)))
@@ -5940,7 +5924,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:PinHeader_1x6_P2.54mm_SMD_Horizontal" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 19.05 -3.81 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6027,7 +6010,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:PinHeader_2x5_P1.27mm_SMD" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 25.4 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6146,7 +6128,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6201,7 +6182,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_0R_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6256,7 +6236,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_10k_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6308,7 +6287,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_15k_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6360,7 +6338,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_200R_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6412,7 +6389,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_27R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6464,7 +6440,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_470R_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6516,7 +6491,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:R_5k1_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6568,7 +6542,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:SM04B-SRSS-TB-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 26.67 -3.81 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6631,7 +6604,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:SM06B-GHS-TB-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 27.94 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6696,7 +6668,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:SW_CVS-02B" (in_bom yes) (on_board yes)
       (property "Reference" "SW" (id 0) (at 26.67 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6822,7 +6793,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:TP_0.75mm_SMD" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (id 0) (at 17.78 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -6862,7 +6832,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:USB-C_USB4105-GF-A" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 38.1 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -7055,7 +7024,6 @@
         )
       )
     )
-
     (symbol "sdi-mipi-video-converter:WE_68715014522_ONE-SIDE_1" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 43.18 0)
         (effects (font (size 1.27 1.27)))
@@ -7846,6 +7814,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 132d19bf-b362-434e-810e-db7a8a398abb)
   )
+
   (wire (pts (xy 181.61 133.35) (xy 186.69 133.35))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 13da4f41-9b85-4217-9e7a-934f7936ad26)
@@ -7938,6 +7907,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1e535ec5-0d04-43d0-ae84-33ec79dbf6b7)
   )
+
   (wire (pts (xy 189.23 140.97) (xy 194.31 140.97))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1fcff3e0-93ba-436c-b14a-94e410a9903b)
@@ -8014,6 +7984,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 27bc86b3-ce36-4159-a3b2-b95f0cd4d12b)
   )
+
   (wire (pts (xy 375.92 69.85) (xy 375.92 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 28dcb632-808c-48ab-b0c5-2fe6a3e1b1c5)
@@ -8066,6 +8037,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 316da707-f122-4b6c-b0b3-ec8bed3cff07)
   )
+
   (wire (pts (xy 172.72 226.06) (xy 157.48 226.06))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 32b739ae-57b3-498c-ba1b-98a12a9a57a2)
@@ -8086,6 +8058,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 35c08561-41d1-4ab4-9608-96eb11bcb89a)
   )
+
   (wire (pts (xy 237.49 95.25) (xy 255.27 95.25))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 35cf9de4-eb98-417f-801a-6d22fecc88f5)
@@ -8258,6 +8231,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 49c4e47d-cfab-4e06-8f31-e5e66d9d551b)
   )
+
   (wire (pts (xy 118.11 35.56) (xy 105.41 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 4aaa485f-6eed-42b8-ab99-f0a5cd133120)
@@ -9030,6 +9004,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid cde98c61-bae6-446d-b234-1bcfa53ec25f)
   )
+
   (wire (pts (xy 341.63 52.07) (xy 351.79 52.07))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ce06e566-3da0-419f-b08c-04dc571d593f)
@@ -9126,6 +9101,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid db04d67a-b7e5-4d13-8f7b-5e1b4b7e65c5)
   )
+
   (wire (pts (xy 148.59 214.63) (xy 148.59 222.25))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid db7e5596-e64a-468b-886d-c8f99332e32c)
