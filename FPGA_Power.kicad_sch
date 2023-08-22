@@ -5562,7 +5562,7 @@
     (property "Value" "LIFCL-40-9BG256C" (id 1) (at 271.78 111.76 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm" (id 2) (at 314.96 109.22 0)
+    (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (id 2) (at 314.96 109.22 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (id 3) (at 314.96 111.76 0)

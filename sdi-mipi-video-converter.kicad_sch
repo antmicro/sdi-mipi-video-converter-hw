@@ -17372,43 +17372,43 @@
       (reference "U10") (unit 1) (value "AP7330-W5-7") (footprint "sdi-mipi-video-converter-footprints:SOT-23-5")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/6be772bc-9f7a-49ab-a787-691c4ea1f78a"
-      (reference "U11") (unit 1) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 1) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/db83a721-9207-4058-bded-b7edfc57ea31"
-      (reference "U11") (unit 2) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 2) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/58473ccd-6717-4fe5-ac07-b7c746124830"
-      (reference "U11") (unit 3) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 3) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/958fa310-195e-415e-9edb-9b3edb3cc9ee"
-      (reference "U11") (unit 4) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 4) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/4528b76d-e71a-4baa-92fa-2e0f7705b62e"
-      (reference "U11") (unit 5) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 5) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/6653bc1d-fec1-4ae9-86ca-7abfa840537a"
-      (reference "U11") (unit 6) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 6) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/9147dad3-40a9-47d4-91db-f6fb82a868c3"
-      (reference "U11") (unit 7) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 7) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/83be1913-0bea-4510-a0a4-5a27d4a9912b"
-      (reference "U11") (unit 8) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 8) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a2680323-3c10-4837-9484-499c899e63e7"
-      (reference "U11") (unit 9) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 9) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/e402139f-c5ee-4f0d-82a1-944c44608501/a8da1edd-4f8e-4620-948f-b9ccf03645af"
-      (reference "U11") (unit 10) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 10) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/12880191-8061-4527-a2e0-70be8cf198d9"
-      (reference "U11") (unit 11) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 11) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/921bbf25-96dd-4584-bc75-c5daf08b08e5/569029c9-f446-4e7b-b8b8-eee16bfb0eca"
-      (reference "U11") (unit 12) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 12) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/ecacf2b6-22be-4835-8168-c6f916010687/c5c049e3-1195-49a0-8222-478abe94ed9f"
-      (reference "U11") (unit 13) (value "LIFCL-40-9BG256C") (footprint "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm")
+      (reference "U11") (unit 13) (value "LIFCL-40-9BG256C") (footprint "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE")
     )
     (path "/ab15e142-a372-4f51-93f5-266aa8f2cc4d/73bfc772-6c8b-4061-a687-76a9a1b9d6ea"
       (reference "U12") (unit 1) (value "MT41K128M16JT-125_K") (footprint "sdi-mipi-video-converter-footprints:BGA-96-48_8x14mm_Layout16x9_P0.8mm")
@@ -17423,13 +17423,13 @@
       (reference "U14") (unit 1) (value "DIO7553ST6") (footprint "sdi-mipi-video-converter-footprints:SOT-23-6")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/273c8f7c-2cd7-4e7b-b970-d8ebcd24dd07"
-      (reference "U15") (unit 1) (value "GS2971A") (footprint "sdi-mipi-video-converter-footprints:BGA-100_11x11mm_Layout10x10_P1mm")
+      (reference "U15") (unit 1) (value "GS2971A") (footprint "antmicro-footprints:BGA100_11x11mm_SEMTECH")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/8c7dfd31-adf0-46b8-9cce-d370a9644e00"
-      (reference "U15") (unit 2) (value "GS2971A") (footprint "sdi-mipi-video-converter-footprints:BGA-100_11x11mm_Layout10x10_P1mm")
+      (reference "U15") (unit 2) (value "GS2971A") (footprint "antmicro-footprints:BGA100_11x11mm_SEMTECH")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/01fcb52c-9c66-47b6-89a8-fa95e2b66db6"
-      (reference "U15") (unit 3) (value "GS2971A") (footprint "sdi-mipi-video-converter-footprints:BGA-100_11x11mm_Layout10x10_P1mm")
+      (reference "U15") (unit 3) (value "GS2971A") (footprint "antmicro-footprints:BGA100_11x11mm_SEMTECH")
     )
     (path "/754b3b25-858a-4ae9-9c94-eb88092a8c6b/da505ca4-9d94-4208-8ac3-5ff068bd0e5f"
       (reference "U16") (unit 1) (value "GS2988") (footprint "sdi-mipi-video-converter-footprints:QFN-16_1EP_4x4mm_P0.65mm")
