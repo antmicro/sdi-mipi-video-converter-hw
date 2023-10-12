@@ -1,7 +1,8 @@
 # SDI-MIPI Video Converter
 
-Copyright (c) 2022 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
 
+[![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Hardware%20Portal-332d37?style=flat-square)](https://openhardware.antmicro.com/boards/sdi-mipi-video-converter/?github=https%3A%2F%2Fgithub.com%2Fantmicro%2Fsdi-mipi-video-converter%2Ftree%2Fmain&tab=features)
 ![SDI-MIPI Video Converter](/img/sdi-mipi-video-converter.png)
 
 ## Overview
@@ -31,10 +32,6 @@ Antmicro's 50-pin FFC connector is electrically compatible with several boards c
 * [Jetson Nano/TX2 NX/Xavier NX Baseboard](https://github.com/antmicro/jetson-nano-baseboard)
 * [OV9281 Dual Camera Board](https://github.com/antmicro/ov9281-camera-board)
 * [HDMI-MIPI bridge](https://github.com/antmicro/hdmi-mipi-bridge)
-
-## Board diagram
-
-![Diagram](doc/sdi-mipi-video-converter-diagram.png)
 
 ## License
 
