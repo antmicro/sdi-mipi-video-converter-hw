@@ -315,7 +315,7 @@
   (pad "T14" smd circle (at 4.4 6) (size 0.45 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 299546fb-8ff9-4179-99e4-153622e999fa))
   (pad "T15" smd circle (at 5.2 6) (size 0.45 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20d19d1f-be10-4697-bec8-fda048331625))
   (pad "T16" smd circle (at 6 6) (size 0.45 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 508cdc7d-d1bc-4096-b869-0e2ba07f5879))
-  (model "${KIPRJMOD}/lib/3d-models/BGA-256_16x16_14.0x14.0mm.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/BGA-256_16x16_14.0x14.0mm.step"
     (offset (xyz 0.0005 -0.0005 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

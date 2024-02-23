@@ -526,7 +526,7 @@
   (pad "7" smd roundrect (at 2.201 -0.326 270) (size 0.45 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 409d3d50-6adc-43b5-8ca0-12e8ac7e2d90))
   (pad "8" smd roundrect (at 2.201 -0.977 270) (size 0.45 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 28083a29-25f0-4937-a42f-f966492cf11f))
   (pad "9" smd rect (at 0 0) (size 1.98 1.88) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 20a6c416-bb7f-4c2e-99e2-8ebad03b3c0e))
-  (model "${KIPRJMOD}/lib/3d-models/MSOP8-3-0.65mm.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/MSOP8-3-0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

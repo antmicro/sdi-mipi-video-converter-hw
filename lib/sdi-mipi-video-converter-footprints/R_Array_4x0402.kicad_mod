@@ -106,7 +106,7 @@
   (pad "6" smd roundrect (at 0.27 -0.452) (size 0.4 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0362c922-2a5d-450a-b943-797272385b91))
   (pad "7" smd roundrect (at -0.272 -0.452) (size 0.4 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ee663ba0-8a52-4321-a72d-23708faf73f2))
   (pad "8" smd roundrect (at -0.802 -0.452) (size 0.4 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 53dad8b5-ec76-483e-b1be-bab45344d159))
-  (model "${KIPRJMOD}/lib/3d-models/R_array_panasonic_exb28.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/R_array_panasonic_exb28.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

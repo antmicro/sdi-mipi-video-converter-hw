@@ -190,6 +190,11 @@
   (pad "6" smd roundrect (at 2.499 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7d2805bb-1d9c-435d-be82-2b444fc63814))
   (pad "S1" smd roundrect (at -3.8 1.874) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp 94a80261-fb06-488b-869e-65ef17a71b88))
   (pad "S2" smd roundrect (at 3.798 1.874) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05) (tstamp a0e12d7c-cd8a-4cf8-9496-cfe39847a3bc))
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/SM06B-SRSS-TB_LF__SN_.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
   (group "" (id 64f00373-d849-4bb7-a0a4-55ae8a7d9c41)
     (members
       0071f4fe-907d-42b6-935d-e4b4fa21b4ce
@@ -334,10 +339,5 @@
       fbe1d36f-e0f6-4746-a263-78671d6b801d
       fccfaa13-4c68-4f67-b686-08256e292f98
     )
-  )
-  (model "${KIPRJMOD}/lib/3d-models/SM06B-SRSS-TB_LF__SN_.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
   )
 )

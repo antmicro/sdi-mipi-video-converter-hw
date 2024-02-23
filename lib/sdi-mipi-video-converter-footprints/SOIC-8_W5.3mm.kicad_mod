@@ -155,7 +155,7 @@
   (pad "6" smd roundrect (at 2.463 0.63) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cf673776-dc8e-461b-8512-9e71fad286be))
   (pad "7" smd roundrect (at 2.463 -0.635) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f8d9544e-cc07-41e4-a79f-ca68278fcee0))
   (pad "8" smd roundrect (at 2.463 -1.905) (size 1.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7674b884-5f7d-44f7-a0bd-7446b05fe19b))
-  (model "${KIPRJMOD}/lib/3d-models/SOIC-8_5.3mm.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/SOIC-8_5.3mm.step"
     (offset (xyz 0 -0.001 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

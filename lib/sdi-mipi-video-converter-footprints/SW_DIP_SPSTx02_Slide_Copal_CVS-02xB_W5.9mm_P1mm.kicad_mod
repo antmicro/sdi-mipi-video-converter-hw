@@ -1801,7 +1801,7 @@
   (pad "SH" smd rect (at -2.15 1.5) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e8edc35-ef02-4cb2-b330-a4d4d5e73d33))
   (pad "SH" smd rect (at 2.15 1.5) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 439b644f-3c34-4fe8-9b68-891b7f33ed07))
   (pad "SH" smd rect (at 2.15 -1.5) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b11db0aa-4426-4e9c-90f4-ce9095d05c3e))
-  (model "${KIPRJMOD}/lib/3d-models/CVS-02B.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/CVS-02B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

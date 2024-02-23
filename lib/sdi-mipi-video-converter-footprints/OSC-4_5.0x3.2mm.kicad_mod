@@ -1133,7 +1133,7 @@
   (pad "2" smd roundrect (at 1.269 1.1) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp bb15ea5d-42be-4527-b39b-58283f025c50))
   (pad "3" smd roundrect (at 1.269 -1.101) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp cc132596-f0f7-4159-aa8e-2cc0e29b3a25))
   (pad "4" smd roundrect (at -1.27 -1.101) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp f75e86a0-4826-4713-8cbd-0fc4f2aba26f))
-  (model "${KIPRJMOD}/lib/3d-models/ASFL1.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/ASFL1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

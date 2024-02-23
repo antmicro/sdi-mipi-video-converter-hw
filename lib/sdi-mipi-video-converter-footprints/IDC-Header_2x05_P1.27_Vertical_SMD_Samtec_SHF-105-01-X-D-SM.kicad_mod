@@ -245,7 +245,7 @@
   (pad "8" smd rect (at 1.269 -2.009) (size 0.74 2.795) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdbd89c3-8425-457c-a69d-c7688081a1c4))
   (pad "9" smd rect (at 2.539 2.055) (size 0.74 2.795) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 27e2819c-6523-4bfe-900f-eb87801d5dbc))
   (pad "10" smd rect (at 2.539 -2.009) (size 0.74 2.795) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a7baf94-51f0-4565-91de-75dfdebdfeee))
-  (model "${KIPRJMOD}/lib/3d-models/SHF-105-01-L-D-SM.step"
+  (model "/home/ant/Workspace/sdi-mipi-video-converter-hw/lib/3d-models/SHF-105-01-L-D-SM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
