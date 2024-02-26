@@ -13,14 +13,14 @@
   )
 
   (lib_symbols
-    (symbol "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
+    (symbol "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 53.34 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "CrossLink_LIFCL-40-9BG256C" (at 53.34 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 53.34 -7.62 0)
+      (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 53.34 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 53.34 -10.16 0)
@@ -1186,6 +1186,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:+1V8" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1236,6 +1237,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:C_100n_0201" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1302,6 +1304,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:C_10u_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1368,6 +1371,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:FB_120Z_2A_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1445,6 +1449,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -5881,7 +5886,7 @@
     )
   )
 
-  (symbol (lib_id "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C") (at 255.27 116.84 0) (unit 13)
+  (symbol (lib_id "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C") (at 255.27 116.84 0) (unit 13)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c5c049e3-1195-49a0-8222-478abe94ed9f)
     (property "Reference" "U11" (at 271.78 109.22 0)
@@ -5890,7 +5895,7 @@
     (property "Value" "LIFCL-40-9BG256C" (at 271.78 109.22 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 308.61 124.46 0)
+    (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 308.61 124.46 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 308.61 127 0)

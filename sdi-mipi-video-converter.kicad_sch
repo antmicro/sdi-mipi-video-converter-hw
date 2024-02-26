@@ -11,10 +11,7 @@
     (comment 1 "www.antmicro.com")
     (comment 2 "Antmicro Ltd.")
   )
-
-  (lib_symbols
-  )
-
+  (lib_symbols)
 
   (image (at 24.285 267.065) (scale 0.15)
     (uuid 3975e8f2-4678-4e06-bb7c-a2d32ae19384)

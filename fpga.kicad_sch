@@ -13,14 +13,14 @@
   )
 
   (lib_symbols
-    (symbol "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
+    (symbol "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 53.34 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "CrossLink_LIFCL-40-9BG256C" (at 53.34 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 53.34 -7.62 0)
+      (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 53.34 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 53.34 -10.16 0)
@@ -1186,6 +1186,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:+3.3V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -1232,6 +1233,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:2N7002_SOT-23-3" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1402,6 +1404,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:C_100n_0201" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1468,6 +1471,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1534,6 +1538,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1572,6 +1577,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:LED_G_0603_LTST-C190GKT" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1650,6 +1656,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:LED_R_0603_LTST-C190KRKT" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1728,6 +1735,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C_1" (in_bom yes) (on_board yes)
       (property "Reference" "U8" (at -1.27 45.72 0)
         (effects (font (size 1.27 1.27)))
@@ -2915,6 +2923,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:LIFCL-40-9BG256C_2" (in_bom yes) (on_board yes)
       (property "Reference" "U8" (at -1.27 45.72 0)
         (effects (font (size 1.27 1.27)))
@@ -4102,6 +4111,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:Oscillator_SMD_40MHz_OSC-S5" (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 33.02 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4171,6 +4181,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:PinHeader_2x5_P2mm_Drill0.71mm_Shrouded" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 25.4 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4283,6 +4294,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4337,6 +4349,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_0R_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4391,6 +4404,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_100R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4442,6 +4456,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_10k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4493,6 +4508,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_1k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4544,6 +4560,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_2k2_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4595,6 +4612,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:R_4k7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4646,6 +4664,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:SC18IS602BIPW" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 53.34 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4742,6 +4761,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:SW_B3U-3000PM" (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 25.4 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -4829,6 +4849,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:TMUX1574RSVR" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 44.45 0 0)
         (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -5242,6 +5263,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:TP_0.75mm_SMD" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 17.78 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -5281,6 +5303,7 @@
         )
       )
     )
+
     (symbol "sdi-mipi-video-converter:W25Q32JVSSIQ" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 33.02 -3.81 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -5768,7 +5791,6 @@
     (stroke (width 0) (type default))
     (uuid 3da3e693-1feb-43f1-a8f0-3cb210cc63fd)
   )
-
   (wire (pts (xy 349.25 115.57) (xy 351.79 115.57))
     (stroke (width 0) (type default))
     (uuid 3f423870-44dc-46df-9170-d93844308ef6)
@@ -6361,7 +6383,6 @@
     (stroke (width 0) (type default))
     (uuid eb4d764d-29cd-42ff-83de-1a5d2e153eee)
   )
-
   (wire (pts (xy 375.92 125.73) (xy 378.46 125.73))
     (stroke (width 0) (type default))
     (uuid eb8d168e-7bf5-4819-a5d1-5d4199b1dcff)
@@ -9023,7 +9044,7 @@
     )
   )
 
-  (symbol (lib_id "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C") (at 88.9 130.81 0) (mirror y) (unit 11)
+  (symbol (lib_id "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C") (at 88.9 130.81 0) (mirror y) (unit 11)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12880191-8061-4527-a2e0-70be8cf198d9)
     (property "Reference" "U11" (at 74.295 123.19 0)
@@ -9032,7 +9053,7 @@
     (property "Value" "LIFCL-40-9BG256C" (at 74.295 123.19 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 35.56 138.43 0)
+    (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 35.56 138.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 35.56 140.97 0)
@@ -10249,7 +10270,7 @@
     )
   )
 
-  (symbol (lib_id "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C") (at 138.43 130.81 0) (mirror y) (unit 12)
+  (symbol (lib_id "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C") (at 138.43 130.81 0) (mirror y) (unit 12)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 569029c9-f446-4e7b-b8b8-eee16bfb0eca)
     (property "Reference" "U11" (at 123.825 123.19 0)
@@ -10258,7 +10279,7 @@
     (property "Value" "LIFCL-40-9BG256C" (at 123.825 123.19 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 85.09 138.43 0)
+    (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 85.09 138.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 85.09 140.97 0)
@@ -10982,7 +11003,7 @@
     )
   )
 
-  (symbol (lib_id "antmicroFPGAChips:CrossLink_LIFCL-40-9BG256C") (at 118.11 53.34 0) (mirror y) (unit 1)
+  (symbol (lib_id "sdi-mipi-video-converter:CrossLink_LIFCL-40-9BG256C") (at 118.11 53.34 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6be772bc-9f7a-49ab-a787-691c4ea1f78a)
     (property "Reference" "U11" (at 95.25 45.72 0)
@@ -10991,7 +11012,7 @@
     (property "Value" "LIFCL-40-9BG256C" (at 95.25 45.72 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 64.77 60.96 0)
+    (property "Footprint" "sdi-mipi-video-converter-footprints:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 64.77 60.96 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 64.77 63.5 0)
