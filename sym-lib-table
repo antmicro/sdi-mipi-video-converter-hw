@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "sdi-mipi-video-converter")(type "KiCad")(uri "${KIPRJMOD}/lib/sdi-mipi-video-converter.kicad_sym")(options "")(descr ""))
-)

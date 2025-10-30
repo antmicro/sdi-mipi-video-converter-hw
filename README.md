@@ -1,6 +1,6 @@
 # SDI-MIPI Video Converter
 
-Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2022-2025 [Antmicro](https://www.antmicro.com)
 
 [![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Hardware%20Portal-332d37?style=flat-square)](https://openhardware.antmicro.com/boards/sdi-mipi-video-converter/?github=https%3A%2F%2Fgithub.com%2Fantmicro%2Fsdi-mipi-video-converter%2Ftree%2Fmain&tab=features)
 ![SDI-MIPI Video Converter](/img/sdi-mipi-video-converter.png)
@@ -9,13 +9,14 @@ Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
 
 This repository contains open hardware design files for a video accessory based on the [Lattice CrossLink-NX](https://www.latticesemi.com/Products/FPGAandCPLD/CrossLink-NX) FPGA which allows to connect multiple video streams from SDI or CSI inputs, process it on-board and export with CSI output.
 
+The design files were prepared in KiCad 9.x.
+
 ## Repository structure
 
 The main repository directory contains KiCad PCB project files, a [LICENSE](LICENSE), and a README.
 The remaining files are stored in the following directories:
 
-* `lib` - contains the KiCad 6 component libraries,
-* `img` - contains graphics for this README,
+* `img` - contains graphics for this README
 
 ## Key Features
 

@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "sdi-mipi-video-converter")(type "KiCad")(uri "${KIPRJMOD}/lib/sdi-mipi-video-converter.pretty")(options "")(descr ""))
-  (lib (name "Oscillator")(type "KiCad")(uri "${KICAD7_FOOTPRINT_DIR}/Oscillator.pretty")(options "")(descr ""))
-  (lib (name "sdi-mipi-video-converter-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/sdi-mipi-video-converter-footprints")(options "")(descr ""))
-  (lib (name "sdi-mipi-video-converter-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/")(options "")(descr ""))
-)
