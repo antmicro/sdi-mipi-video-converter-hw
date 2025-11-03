@@ -7727,7 +7727,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "antmicroMemory:W25Q32JVSSIQ"
+		(symbol "antmicroMemory:W25Q32JVSNIQ"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -7741,7 +7741,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "W25Q32JVSSIQ"
+			(property "Value" "W25Q32JVSNIQ"
 				(at 33.02 -6.35 0)
 				(effects
 					(font
@@ -7752,7 +7752,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
+			(property "Footprint" "antmicro-footprints:SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 				(at 33.02 -8.89 0)
 				(effects
 					(font
@@ -7784,7 +7784,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "W25Q32JVSSIQ"
+			(property "MPN" "W25Q32JVSNIQ"
 				(at 33.02 -13.97 0)
 				(effects
 					(font
@@ -7836,7 +7836,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "W25Q32JVSSIQ_1_1"
+			(symbol "W25Q32JVSNIQ_1_1"
 				(rectangle
 					(start 2.54 2.54)
 					(end 16.51 -15.24)
@@ -25226,7 +25226,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMemory:W25Q32JVSSIQ")
+		(lib_id "antmicroMemory:W25Q32JVSNIQ")
 		(at 330.2 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25245,15 +25245,16 @@
 			)
 		)
 		(property "Value" "W25Q32JVSSIQ"
-			(at 339.725 48.26 0)
+			(at 339.725 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
+		(property "Footprint" "antmicro-footprints:SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 			(at 363.22 62.23 0)
 			(effects
 				(font
@@ -25276,23 +25277,22 @@
 			)
 		)
 		(property "Description" "Flash Memory, Serial NOR, 32 Mbit, 4M x 8bit, SPI, SOIC, 8 Pins"
-			(at 330.2 53.34 0)
+			(at 363.22 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "MPN" "W25Q32JVSSIQ"
-			(at 363.22 67.31 0)
+		(property "MPN" "W25Q32JVSNIQ"
+			(at 339.725 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Manufacturer" "Winbond"
